@@ -232,6 +232,7 @@ You need to install Raspberry Pi OS Lite or <a href="https://www.armbian.com/">A
 Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following commands<br>
 
 <br>
+
 ```sh
 sudo apt update
 sudo apt upgrade
@@ -252,8 +253,6 @@ git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
 ## Payloads FW9.00
 ```sh
 git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
-```
-```sh
 cd ~/
 sudo cp -r payloads /boot/firmware/PPPwn
 cd /boot/firmware/PPPwn
@@ -264,6 +263,7 @@ sudo bash install.sh
 ```sh
 echo "744,987,1337,2121,2811,3232,8080,9020,9090,12800" > /boot/firmware/PPPwn/ports.txt
 ```
+
 <br>
 
 During the install process you will be asked to set some options.<br>
