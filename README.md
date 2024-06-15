@@ -232,35 +232,36 @@ You need to install Raspberry Pi OS Lite or <a href="https://www.armbian.com/">A
 Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following commands<br>
 
 <br>
-
+## Setup & Config PI-Pwn (After Finish the PI Reboot)
 ```sh
 sudo apt update
 sudo apt upgrade
 sudo apt install git -y
-sudo rm -f -r ~/PI-Pwn-AIO
+sudo rm -f -r ~/PI-Pwn
 sudo systemctl stop pipwn
-git clone https://github.com/Systemx23x/PI-Pwn-AIO ~/PI-Pwn-AIO
-cd ~/PI-Pwn-AIO
+git clone https://github.com/stooged/PI-Pwn ~/PI-Pwn
+cd ~/PI-Pwn
 sudo cp -r PPPwn /boot/firmware/
-sudo rm -f -r ~/payloads
-sudo rm -f -r /boot/firmware/PPPwn/payloads
-```
-## Select FW9.00 or FW11.00 Payloads
-## Payloads FW11.00
-```sh
-git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
-```
-## Payloads FW9.00
-```sh
-git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
-```
-## Latest Steps
-```sh
-cd ~/
-sudo cp -r payloads /boot/firmware/PPPwn
 cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
+```
+## Select FW9.00 or FW11.00 Payloads (After Reboot PI,connect Again and Add One of them)
+## Payloads FW11.00
+```sh
+sudo rm -f -r ~/payloads
+sudo rm -f -r /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
+cd ~/
+sudo cp -r payloads /boot/firmware/PPPwn
+```
+## Payloads FW9.00
+```sh
+sudo rm -f -r ~/payloads
+sudo rm -f -r /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
+cd ~/
+sudo cp -r payloads /boot/firmware/PPPwn
 ```
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
 ```sh
