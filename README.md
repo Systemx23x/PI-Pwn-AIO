@@ -10,6 +10,206 @@ There is also a webserver to control the pi, change settings and send payloads b
 
 <br>
 
+## PI-Pwn-AIO Section Added here to have it Perfektly as All-in-One Package Solution
+
+## Add Raspberry PI OS Lite and Tool
+<a href=https://github.com/Systemx23x/pi-os/>Raspberry PI OS Lite and Tool</a><br>
+
+## Download All
+<a href=http://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit)</a><br>
+<a href=http://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit)</a><br>
+<a href=http://downloads.raspberrypi.com/imager/imager_1.8.5.exe>PI-Imager-1.8.5-Windows-exe</a><br>
+<a href=http://downloads.raspberrypi.com/imager/imager_1.8.5_amd64.deb>PI-Imager-1.8.5-Linux-deb</a><br>
+<a href=http://downloads.raspberrypi.com/imager/imager_1.8.5.dmg>PI-Imager-1.8.5-MacOS-dmg</a><br>
+
+
+
+
+## Add PS4 Recovery Firmware Update 9.00 and 11.00
+<a href=https://github.com/Systemx23x/ps4-recovery-firmware-updates/>PS4 Recovery Firmware Update 9.00 and 11.00</a><br>
+
+## Download All
+<a href=https://c.1und1.de/@1157988897574099954/IfdBJ5lwQV2wGJDzg-5Yrw>Download All</a><br>
+
+## Include
+PS4-Recovery-FW900-Update.zip<br><br>
+PS4-Recovery-FW1100-Update.zip<br><br>
+README.txt<br>
+
+
+
+
+## Add PS4 Homebrew FPKG Collection
+<a href=https://github.com/Systemx23x/ps4-homebrew-fpkg/>PS4 Homebrew FPKG Collection</a><br>
+
+## Download All
+<a href=https://c.1und1.de/@1157988897574099954/cG7vCuk6RMyYWAu5SpWLNw>Download All</a><br>
+
+## Include
+ps4-apollo-save-wizard.pkg<br> 
+ps4-goldencheats.pkg<br> 
+ps4-homebrew-store.pkg<br> 
+ps4-itemzflow-game-manager.pkg<br> 
+ps4-logmein-hamachi.pkg<br> 
+ps4-orbis-ftp.pkg<br> 
+ps4-orbis-suite-3.0.pkg<br> 
+ps4-patch-installer.pkg<br> 
+ps4-tools.pkg<br> 
+ps4-webdav-client.pkg<br> 
+ps4-webrte.pkg<br> 
+ps4-xplorer-1.pkg<br> 
+ps4-xplorer-2.pkg<br> 
+ps4-youtube.pkg<br>
+
+
+
+
+## Add PS4 PC Tools Collection
+<a href=https://github.com/Systemx23x/ps4-pc-tools/>PS4 PC Tools Collection</a><br>
+
+## Download All
+<a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>Download All</a><br>
+
+## Include
+Chiaki-v2.2.0-Windows-x86_64.zip<br>
+DS4_Tool.zip<br>, FTP_Dump.zip<br>
+GoldHEN_Cheats_Updater.zip<br>
+ps4-Fake-PKG-Tools-3.87_V6_MoD_By_System23.zip<br>
+ps4-Game-Cheater-1.5.4.7-Rev2-x64.zip<br>
+ps4-Game-Cheater-1.5.4.7-Rev2-x86.zip<br>
+ps4-Games-Reaper-Beta2.zip<br>
+ps4-Games-Reaper-Studio-1.0.4.1.zip<br>
+ps4-GoldHEN-Cheats-Updater-and-Converter.zip<br>
+
+
+
+
+## Add PS4 Payloads Collection FW11.00
+<a href=https://github.com/Systemx23x/payloads-ps4-1100/>PS4 Payloads Collection FW11.00</a><br>
+
+## Include
+ps4-app-dumper.bin<br> 
+ps4-app2usb.bin<br> 
+ps4-dbbackup.bin<br> 
+ps4-debug-1.1.16.bin<br> 
+ps4-disable_updates_11.00.bin<br> 
+ps4-fan-threshold.bin<br> 
+ps4-ftp.bin<br> 
+ps4-goldhen-2.4b17.3.bin<br> 
+ps4-hen-1100-PPPwn-vtx.bin<br>
+ps4-history-blocker.bin<br> 
+ps4-kernel-dumper.bin<br> 
+ps4-linux-1100-2gb.bin<br> 
+ps4-linux-1100-3gb.bin<br> 
+ps4-linux-1100-4gb.bin<br> 
+ps4-linux-1100.bin<br> 
+ps4-linux-pro-1100-2gb.bin<br> 
+ps4-linux-pro-1100-3gb.bin<br> 
+ps4-linux-pro-1100-4gb.bin<br> 
+ps4-linux-pro-1100.bin<br> 
+ps4-module-dumper.bin<br> 
+ps4-permanent_uart-11.00.bin<br> 
+ps4-pup-decrypter.bin<br> 
+ps4-todex.bin<br>
+
+
+
+
+## Add PS4 Payloads Collection FW9.00
+<a href=https://github.com/Systemx23x/payloads-ps4-900/>PS4 Payloads Collection FW9.00</a><br>
+
+## Included
+ps4-app-dumper.bin<br>
+ps4-app2usb.bin<br>
+ps4-backup.bin<br>
+ps4-debug-1.1.16.bin<br>
+ps4-disable-aslr.bin<br>
+ps4-disable-updates.bin<br>
+ps4-enable-browser.bin<br>
+ps4-enable-updates.bin<br>
+ps4-exit-idu.bin<br>
+ps4-fakeusb.bin<br>
+ps4-fan-speed-50.bin<br>
+ps4-fan-speed-55.bin<br>
+ps4-fan-speed-60.bin<br>
+ps4-fan-speed-65.bin<br>
+ps4-fan-speed-70.bin<br>
+ps4-fan-speed-75.bin<br>
+ps4-fan-speed-80.bin<br>
+ps4-fan-speed-default.bin<br>
+ps4-fan-threshold.bin<br>
+ps4-ftp.bin<br>
+ps4-game-dumper.bin<br>
+ps4-GTA5_ArabicGuy127.bin<br>
+ps4-GTA5_ArabicGuy132.bin<br>
+ps4-GTA5_ArabicGuy133.bin<br>
+ps4-GTA5_BeefQueefMod133.bin<br>
+ps4-GTA5_BeefQueefMod134.bin<br>
+ps4-GTA5_BeefQueefMod138.bin<br>
+ps4-GTA5_Expulsion_v2_135.bin<br>
+ps4-history-blocker.bin<br>
+ps4-kernel-clock.bin<br>
+ps4-kernel-dumper.bin<br>
+ps4-linux-900-2gb.bin<br>
+ps4-linux-900-3gb.bin<br>
+ps4-linux-900-4gb.bin<br>
+ps4-linux-900.bin<br>
+ps4-linux-pro-900-2gb.bin<br>
+ps4-linux-pro-900-3gb.bin<br>
+ps4-linux-pro-900-4gb.bin<br>
+ps4-linux-pro-900.bin<br>
+ps4-linux1gb.bin<br>
+ps4-linux2gb.bin<br>
+ps4-linux3gb.bin<br>
+ps4-linux4gb.bin<br>
+ps4-linux5gb.bin<br>
+ps4-LinuxLoader.bin<br>
+ps4-LinuxLoader2gb.bin<br>
+ps4-LinuxLoader3gb.bin<br>
+ps4-LinuxLoader4gb.bin<br>
+ps4-LinuxLoader5gb.bin<br>
+ps4-module-dumper.bin<br>
+ps4-OrbisToolbox.bin<br>
+ps4-permanent-uart.bin<br>
+ps4-pkg-backup.bin<br>
+ps4-psxita_LinuxLoader.bin<br>
+ps4-psxita_LinuxLoader2gb.bin<br>
+ps4-psxita_LinuxLoader3gb.bin<br>
+ps4-psxita_LinuxLoader4gb.bin<br>
+ps4-psxita_LinuxLoader5gb.bin<br>
+ps4-RDR2_OystersMenu100.bin<br>
+ps4-RDR2_OystersMenu113.bin<br>
+ps4-RDR2_OystersMenu119.bin<br>
+ps4-RDR2_OystersMenu124.bin<br>
+ps4-restore.bin<br>
+ps4-rif-renamer.bin<br>
+ps4-todex.bin<br>
+ps4-toolbox.bin<br>
+ps4-webrte.bin<br>
+ps4-wtsb.bin<br>
+
+
+
+
+## Add Ports for PS4 PC Tools Forwarding
+
+Games Reaper Studio = `744`<br>
+Games Cheater = `744`<br>
+Chiaki = `987`<br>
+PS4 Tools = `2811`<br>
+FTP Server = `1337,2121`<br>
+BinLoader Server = `8080,9020,9090`<br>
+Klog Server = `3232,12800`<br>
+
+
+
+
+## Add PI-Pwn-AIO
+<a href=https://github.com/Systemx23x/PI-Pwn-AIO/>PI-Pwn-AIO</a><br>
+
+
+
+
 ## Tested PI Models
 
 <a href=https://www.raspberrypi.com/products/raspberry-pi-5/>Raspberry Pi 5</a><br>
@@ -24,29 +224,43 @@ There is also a webserver to control the pi, change settings and send payloads b
 <a href=https://www.linksprite.com/linksprite-pcduino3/>pcDuino3b</a> with armbian <a href=https://imola.armbian.com/archive/pcduino3nano/archive/Armbian_5.38_Pcduino3nano_Debian_jessie_next_4.14.14.7z>Image</a><br>
 
 
-## Install
+## Install PI-Pwn-AIO
 <br>
 
-You need to install <a href=https://www.raspberrypi.com/software/operating-systems/>Raspberry Pi OS Lite</a> or <a href="https://www.armbian.com/">Armbian Cli / Minimal</a> onto a sd card.<br>
+You need to install Raspberry Pi OS Lite or <a href="https://www.armbian.com/">Armbian Cli / Minimal</a> onto a sdcard or a USB-Drive with PI-Imager<br>
 
-Place the sd card into the raspberry pi, boot it and connect it to the internet then run the following commands<br>
+Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following commands<br>
 
 <br>
 
 ```sh
 sudo apt update
+sudo apt upgrade
 sudo apt install git -y
-sudo rm -f -r PI-Pwn
+sudo rm -f -r ~/PI-Pwn-AIO
 sudo systemctl stop pipwn
-git clone https://github.com/stooged/PI-Pwn
-sudo mkdir /boot/firmware/
-cd PI-Pwn
+git clone https://github.com/Systemx23x/PI-Pwn-AIO ~/PI-Pwn-AIO
+cd ~/PI-Pwn-AIO
 sudo cp -r PPPwn /boot/firmware/
+sudo rm -f -r ~/payloads
+sudo rm -f -r /boot/firmware/PPPwn/payloads
+```
+## Select FW9.00 or FW11.00
+## Payloads FW11.00
+git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
+## Payloads FW9.00
+git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
+```sh
+cd ~/
+sudo cp -r payloads /boot/firmware/PPPwn
 cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
 ```
-
+## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
+```sh
+echo "744,987,1337,2121,2811,3232,8080,9020,9090,12800" > /boot/firmware/PPPwn/ports.txt
+```
 <br>
 
 During the install process you will be asked to set some options.<br>
