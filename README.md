@@ -232,7 +232,9 @@ You need to install Raspberry Pi OS Lite or <a href="https://www.armbian.com/">A
 Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following commands<br>
 
 <br>
+
 ## Setup & Config PI-Pwn (After Finish the PI Reboot)
+
 ```sh
 sudo apt update
 sudo apt upgrade
@@ -246,7 +248,9 @@ cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
 ```
+
 ## Select FW9.00 or FW11.00 Payloads (After Reboot PI,connect Again and Add One of them)
+
 ## Payloads FW11.00
 ```sh
 sudo rm -f -r ~/payloads
@@ -255,6 +259,7 @@ git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
 cd ~/
 sudo cp -r payloads /boot/firmware/PPPwn
 ```
+
 ## Payloads FW9.00
 ```sh
 sudo rm -f -r ~/payloads
@@ -263,6 +268,7 @@ git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
 cd ~/
 sudo cp -r payloads /boot/firmware/PPPwn
 ```
+
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
 ```sh
 echo "744,987,1337,2121,2811,3232,8080,9020,9090,12800" > /boot/firmware/PPPwn/ports.txt
