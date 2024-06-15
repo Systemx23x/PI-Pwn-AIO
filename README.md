@@ -232,7 +232,6 @@ You need to install Raspberry Pi OS Lite or <a href="https://www.armbian.com/">A
 Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following commands<br>
 
 <br>
-
 ```sh
 sudo apt update
 sudo apt upgrade
@@ -247,9 +246,13 @@ sudo rm -f -r /boot/firmware/PPPwn/payloads
 ```
 ## Select FW9.00 or FW11.00
 ## Payloads FW11.00
+```sh
 git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
+```
 ## Payloads FW9.00
+```sh
 git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
+```
 ```sh
 cd ~/
 sudo cp -r payloads /boot/firmware/PPPwn
