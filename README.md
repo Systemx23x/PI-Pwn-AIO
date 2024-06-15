@@ -245,7 +245,7 @@ sudo cp -r PPPwn /boot/firmware/
 sudo rm -f -r ~/payloads
 sudo rm -f -r /boot/firmware/PPPwn/payloads
 ```
-## Select FW9.00 or FW11.00
+## Select FW9.00 or FW11.00 Payloads
 ## Payloads FW11.00
 ```sh
 git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
@@ -253,6 +253,9 @@ git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
 ## Payloads FW9.00
 ```sh
 git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
+```
+## Latest Steps
+```sh
 cd ~/
 sudo cp -r payloads /boot/firmware/PPPwn
 cd /boot/firmware/PPPwn
