@@ -193,9 +193,9 @@ ps4-wtsb.bin<br>
 
 ## Add Ports for PS4 PC Tools Forwarding
 
-Games Reaper Studio = `744`<br>
+Games Reaper Studio = `744,755`<br>
 Games Cheater = `744`<br>
-Chiaki = `987`<br>
+Chiaki = `987,9295,9296,9297`<br>
 PS4 Tools = `2811`<br>
 FTP Server = `1337,2121`<br>
 BinLoader Server = `8080,9020,9090`<br>
@@ -271,7 +271,7 @@ sudo cp -r payloads /boot/firmware/PPPwn
 
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
 ```sh
-echo "744,987,1337,2121,2811,3232,8080,9020,9090,12800" > /boot/firmware/PPPwn/ports.txt
+echo "744,755,987,1337,2121,2811,3232,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 
 <br>
