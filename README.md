@@ -219,12 +219,12 @@ ps4-wtsb.bin<br>
 ## Add Ports for PS4 PC Tools Forwarding
 
 Games Reaper Studio = `744,755`<br>
-Games Cheater = `744`<br>
+Games Cheater = `744,755`<br>
 Chiaki = `987,9295,9296,9297`<br>
 PS4 Tools = `2811`<br>
 FTP Server = `1337,2121`<br>
 BinLoader Server = `8080,9020,9090`<br>
-Klog Server = `3232,12800`<br>
+Klog Server = `3232,5353,12800`<br>
 
 
 
@@ -279,25 +279,19 @@ sudo bash install.sh
 
 ## Payloads FW11.00
 ```sh
-sudo rm -f -r ~/payloads
 sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-1100 ~/payloads
-cd ~/
-sudo cp -r payloads /boot/firmware/PPPwn
+git clone https://github.com/Systemx23x/payloads-ps4-1100 /boot/firmware/PPPwn/payloads
 ```
 
 ## Payloads FW9.00
 ```sh
-sudo rm -f -r ~/payloads
 sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-900 ~/payloads
-cd ~/
-sudo cp -r payloads /boot/firmware/PPPwn
+git clone https://github.com/Systemx23x/payloads-ps4-900 /boot/firmware/PPPwn/payloads
 ```
 
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
 ```sh
-echo "744,755,987,1337,2121,2811,3232,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
+echo "744,755,987,1337,2121,2811,3232,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 
 <br>
