@@ -1,6 +1,31 @@
 # PI Pwn
 
-This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the raspberry pi and run <a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> on the PS4 fw 11.0, 10.01, 10.00, 9.60, 9.00<br>
+This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the raspberry pi.<br> 
+
+<a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> will run on firmware versions<br>
+
+9.00<br>
+9.60<br>
+10.00, 10.01<br>
+11.00<br>
+
+<br>
+
+<a href=https://github.com/EchoStretch/ps4-hen-vtx>ps4-hen-vtx</a> will run on firmware versions<br>
+
+7.00, 7.01, 7.02<br>
+7.50, 7.51, 7.55<br>
+8.00, 8.01, 8.03<br>
+8.50, 8.52<br>
+9.00<br>
+9.03, 9.04<br>
+9.50, 9.51, 9.60<br>
+10.00, 10.01<br>
+10.50, 10.70, 10.71<br>
+11.00<br>
+
+<br>
+
 It also supports internet access after pwn and access to ftp, klog and binloader servers launched by goldhen.<br>
 A dns blocker is also installed and used to prevent updates.<br>
 
@@ -364,6 +389,7 @@ You can also click the update button on the web ui.<br>
  `Time to restart PPPwn if it hangs` - a timeout in minutes to restart pppwn if the exploit hangs mid process.<br><br>
  `Led activity` - on selected pi models this will have the leds flash based on the exploit progress.<br><br>
  `Use Python version` - enabling this will force the use of the original python pppwn released by <a href=https://github.com/TheOfficialFloW/PPPwn>TheOfficialFloW</a> <br><br>
+ `Use GoldHen if available for selected firmware` - if this is not enabled or your firmware has no goldhen available vtx-hen will be used.<br><br>
  `Use original source ipv6` - this will force pppwn to use the original ipv6 address that was used in pppwn as on some consoles it increases the speed of pwn.<br><br>
  `Use usb ethernet adapter for console connection` - only enable this if you are using a usb to ethernet adapter to connect to the console.<br><br>
  `Detect if goldhen is running` - this will make pi-pwn check if goldhen is loaded on the console and skip running pppwn if it is running.<br><br>
@@ -378,5 +404,5 @@ You can also click the update button on the web ui.<br>
  
  ## Credits
  
- All credit goes to <a href=https://github.com/TheOfficialFloW>TheOfficialFloW</a>, <a href=https://github.com/xfangfang>xfangfang</a>, <a href=https://github.com/SiSTR0>SiSTR0</a> who have made this project possible.<br><br>
+ All credit goes to <a href=https://github.com/TheOfficialFloW>TheOfficialFloW</a>, <a href=https://github.com/xfangfang>xfangfang</a>, <a href=https://github.com/SiSTR0>SiSTR0</a>, <a href=https://github.com/xvortex>Vortex</a>, <a href=https://github.com/EchoStretch>EchoStretch</a> and many other people who have made this project possible.<br><br>
  
