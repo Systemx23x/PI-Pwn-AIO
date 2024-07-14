@@ -1,17 +1,54 @@
-# PI Pwn
+# PI-Pwn-AIO
+## PI-Pwn-AIO Section Added to have it Perfektly as All-in-One Package Solution
 
-This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the raspberry pi.<br> 
+This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the Raspberry PI.<br> 
 
-<a href=https://github.com/GoldHEN/GoldHEN>GoldHen</a> will run on firmware versions<br>
+<a href=https://ko-fi.com/SiSTRo/shop>latest GoldHEN Releases</a> Support this Firmware Versions<br>
 
 9.00<br>
 9.60<br>
-10.00, 10.01<br>
+10.00<br>
+10.01<br>
 11.00<br>
+
+## Recovery Update Downloads for 9.00,9.60,10.00,10.01,11.00<br>
+
+## Download ALL
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.00/PS4UPDATE.PUP>PS4 Recovery Firmware 9.00</a><br>
+MD5 Hash = 674420f041cb5845aae85928751ccd0e<br>
+Size = 1020MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.60/PS4UPDATE.PUP>PS4 Recovery Firmware 9.60</a><br>
+MD5 Hash = 4ca1c1dc093563044c620cbf0e7afa2e<br>
+Size = 1022MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.00/PS4UPDATE.PUP>PS4 Recovery Firmware 10.00</a><br>
+MD5 Hash = bcc0022f9c9d3261165046339ff33c92<br>
+Size = 1075MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.01/PS4UPDATE.PUP>PS4 Recovery Firmware 10.01</a><br>
+MD5 Hash = 87668869af230ac26f859278d10402b1<br>
+Size = 1075MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2011.00/PS4UPDATE.PUP>PS4 Recovery Firmware 11.00</a><br>
+MD5 Hash = fcd0a674a7d78fdb545ea97344d2f86f<br>
+Size = 1025MB<br>
+
+## HowToDo
+################################<br>
+Create a USB Drive with min. 2GB FAT32/EXFAT Formated<br>
+and Create a Folder in root of USB<br>
+PS4<br>
+into that Folder PS4 you Create<br>
+UPDATE<br>
+and into X:\PS4\UPDATE you Copy the<br>
+PS4UPDATE.PUP File<br>
+Finish!!!!<br>
 
 <br>
 
-<a href=https://github.com/EchoStretch/ps4-hen-vtx>ps4-hen-vtx</a> will run on firmware versions<br>
+<a href=https://github.com/EchoStretch/ps4-hen-vtx>ps4-hen-vtx</a> Support these Firmware Versions<br>
 
 7.00, 7.01, 7.02<br>
 7.50, 7.51, 7.55<br>
@@ -24,6 +61,102 @@ This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn
 10.50, 10.70, 10.71<br>
 11.00<br>
 
+
+## Recovery Update Downloads from 7.00 to 11.00<br>
+
+## Download ALL
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.00/PS4UPDATE.PUP>PS4 Recovery Firmware 7.00</a><br>
+MD5 Hash = 60f1b903868ba7a8d35ab00f6782addc<br>
+Size = 1001MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.01/PS4UPDATE.PUP>PS4 Recovery Firmware 7.01</a><br>
+MD5 Hash = 59d03f8a43fa16ab95e52225508f3c59<br>
+Size = 1001MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.02/PS4UPDATE.PUP>PS4 Recovery Firmware 7.02</a><br>
+MD5 Hash = c8f661484ee1a6ba82ff654f0aac7906<br>
+Size = 1001MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.50/PS4UPDATE.PUP>PS4 Recovery Firmware 7.50</a><br>
+MD5 Hash = b17db990e2f1b629dcc891151bd801aa<br>
+Size = 1002MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.51/PS4UPDATE.PUP>PS4 Recovery Firmware 7.51</a><br>
+MD5 Hash = 3dd7507dfa230800c2034fb534c7d611<br>
+Size = 1002MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.55/PS4UPDATE.PUP>PS4 Recovery Firmware 7.55</a><br>
+MD5 Hash = ae0c21163dd52bdd16789cd95e102654<br>
+Size = 1002MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%208.00/PS4UPDATE.PUP>PS4 Recovery Firmware 8.00</a><br>
+MD5 Hash = f0c26fc5832788f589cafdda6f37630c<br>
+Size = 1007MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%208.01/PS4UPDATE.PUP>PS4 Recovery Firmware 8.01</a><br>
+MD5 Hash = 25a82d320bea36974b1e7fb189c4c0c5<br>
+Size = 1007MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%208.03/PS4UPDATE.PUP>PS4 Recovery Firmware 8.03</a><br>
+MD5 Hash = 674420f041cb5845aae85928751ccd0e<br>
+Size = 1020MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%208.50/PS4UPDATE.PUP>PS4 Recovery Firmware 8.50</a><br>
+MD5 Hash = 93c0e91b338030c4c154d771abae1a20<br>
+Size = 1012MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%208.52/PS4UPDATE.PUP>PS4 Recovery Firmware 8.52</a><br>
+MD5 Hash = 264bbbf77f1e248ac804f039c83a9128<br>
+Size = 1012MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.00/PS4UPDATE.PUP>PS4 Recovery Firmware 9.00</a><br>
+MD5 Hash = 674420f041cb5845aae85928751ccd0e<br>
+Size = 1020MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.51/PS4UPDATE.PUP>PS4 Recovery Firmware 9.51</a><br>
+MD5 Hash = 6a868c6b52780aaad92dcbfdafa00dfb<br>
+Size = 1022MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.60/PS4UPDATE.PUP>PS4 Recovery Firmware 9.60</a><br>
+MD5 Hash = 4ca1c1dc093563044c620cbf0e7afa2e<br>
+Size = 1022MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.00/PS4UPDATE.PUP>PS4 Recovery Firmware 10.00</a><br>
+MD5 Hash = bcc0022f9c9d3261165046339ff33c92<br>
+Size = 1075MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.01/PS4UPDATE.PUP>PS4 Recovery Firmware 10.01</a><br>
+MD5 Hash = 87668869af230ac26f859278d10402b1<br>
+Size = 1075MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.50/PS4UPDATE.PUP>PS4 Recovery Firmware 10.50</a><br>
+MD5 Hash = 2b864fbdaecbd5cf0958ddf1f558ccf4<br>
+Size = 1018MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.70/PS4UPDATE.PUP>PS4 Recovery Firmware 10.70</a><br>
+MD5 Hash = 310c0783774cfc29469e02533396b071<br>
+Size = 1023MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.71/PS4UPDATE.PUP>PS4 Recovery Firmware 10.71</a><br>
+MD5 Hash = d577c098f555032e2ab9f2c740162f0a<br>
+Size = 1023MB<br>
+
+<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2011.00/PS4UPDATE.PUP>PS4 Recovery Firmware 11.00</a><br>
+MD5 Hash = fcd0a674a7d78fdb545ea97344d2f86f<br>
+Size = 1025MB<br>
+
+## HowToDo
+################################<br>
+Create a USB Drive with min. 2GB FAT32/EXFAT Formated<br>
+and Create a Folder in root of USB<br>
+PS4<br>
+into that Folder PS4 you Create<br>
+UPDATE<br>
+and into X:\PS4\UPDATE you Copy the<br>
+PS4UPDATE.PUP File<br>
+Finish!!!!<br>
+
 <br>
 
 It also supports internet access after pwn and access to ftp, klog and binloader servers launched by goldhen.<br>
@@ -35,8 +168,6 @@ There is also a webserver to control the pi, change settings and send payloads b
 
 <br>
 
-## PI-Pwn-AIO Section Added here to have it Perfektly as All-in-One Package Solution
-
 ## Add Raspberry PI OS Lite and Tool
 <a href=https://github.com/Systemx23x/pi-os/>Raspberry PI OS Lite and Tool github</a><br>
 
@@ -46,22 +177,6 @@ There is also a webserver to control the pi, change settings and send payloads b
 <a href=http://downloads.raspberrypi.com/imager/imager_1.8.5.exe>PI-Imager-1.8.5-Windows-exe</a><br>
 <a href=http://downloads.raspberrypi.com/imager/imager_1.8.5_amd64.deb>PI-Imager-1.8.5-Linux-deb</a><br>
 <a href=http://downloads.raspberrypi.com/imager/imager_1.8.5.dmg>PI-Imager-1.8.5-MacOS-dmg</a><br>
-
-
-
-
-## Add PS4 Recovery Firmware Update 9.00 and 11.00
-<a href=https://github.com/Systemx23x/ps4-recovery-firmware-updates/>PS4 Recovery Firmware Update 9.00 and 11.00 github</a><br>
-
-## Download All
-<a href=https://c.1und1.de/@1157988897574099954/IfdBJ5lwQV2wGJDzg-5Yrw>Download All</a><br>
-
-## Include
-PS4-Recovery-FW900-Update.zip<br>
-PS4-Recovery-FW1100-Update.zip<br>
-README.txt<br>
-
-
 
 
 ## Add PS4 Homebrew FPKG Collection
