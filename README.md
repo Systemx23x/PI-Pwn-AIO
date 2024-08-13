@@ -223,6 +223,211 @@ ps4-GoldHEN-Cheats-Updater-and-Converter.zip<br>
 
 
 
+## Add PS4 Payloads Collection FW4.00-7.00
+<a href=https://github.com/Systemx23x/payloads-ps4-400-700/>PS4 Payloads Collection FW4.00-7.00 github</a><br>
+
+## Include
+ App2USB.bin<br>
+ Backup.bin<br>
+ Disable-Updates.bin<br>
+ Dumper.bin<br>
+ Enable-Browser.bin<br>
+ Enable-Updates.bin<br>
+ Fan-Threshold.bin<br>
+ FTP.bin<br>
+ History-Blocker.bin<br>
+ Kernel-Clock.bin<br>
+ Kernel-Dumper.bin<br>
+ Restore.bin<br>
+ RIF-Renamer.bin<br>
+
+
+## Add PS4 Payloads Collection FW5.05
+<a href=https://github.com/Systemx23x/payloads-ps4-505/>PS4 Payloads Collection FW5.05 github</a><br>
+
+## Include
+App2USB v3.bin<br>
+App2USB v4.bin<br>
+App2USB v5.bin<br>
+AppCacheDB_USB_Install.bin<br>
+Auth_Info_Dumper_v1.bin<br>
+Auth_Info_Dumper_v2.bin<br>
+Avatar_Dumper.bin<br>
+Avatar_Injector.bin<br>
+DB_Backup.bin<br>
+Db_Restore v2.bin<br>
+DB_SG_Backup v2.bin<br>
+DB_SG_Backup v3.bin<br>
+Disable-Updates.bin<br>
+DiscDump_v1.bin<br>
+Dumper-vtx 1.8.bin<br>
+Enable-Updates.bin<br>
+Enable_VR.bin<br>
+Fan_Control.bin<br>
+FS_Dumper v1.bin<br>
+FTP+RW.bin<br>
+FTP-vtx 1.3.bin<br>
+ftp_server_v1.08a.bin<br>
+GoldHEN_v2.4b14.bin<br>
+GTA_V_APII_IntenseV2.bin<br>
+GTA_V_ArabicGuy.bin<br>
+GTA_V_Lamance_08_MOD-Menu.bin<br>
+GTA_V_Lamance_Trainer.bin<br>
+GTA_V_Lotus_1.00_v1.27.bin<br>
+GTA_V_Psyco0s_MOD_Menu.bin<br>
+GTA_V_v1.27_APII_IntenseV2_by EROOTIIK.bin<br>
+HEN 1.8 VR.bin<br>
+HEN 1.8+DebuggerPatch.bin<br>
+HEN 1.9.bin<br>
+HEN 2.0 by SiSTR0.bin<br>
+HEN 2.1 by SiSTR0.bin<br>
+HEN 2.1.1 by SiSTR0.bin<br>
+HEN 2.1.2 by SiSTR0.bin<br>
+HEN 2.1.3 by SiSTR0.bin<br>
+HEN 2.1.4 by xXxTheDarkProgrammerxXx.bin<br>
+HEN v1.7 MOD by MUXI.bin<br>
+HEN-vtx 1.5.bin<br>
+HEN-vtx 1.6.bin<br>
+HEN-vtx 1.7.bin<br>
+History_Blocker v1.bin<br>
+History_Blocker v2.bin<br>
+Infinix-Package-Installer.bin<br>
+KernelDumper v2.bin<br>
+Kexec.bin<br>
+Linux-Loader-5.05.bin<br>
+LinuxLoader-505-2gb.bin<br>
+LinuxLoader-505-3gb.bin<br>
+LinuxLoader-505-4gb.bin<br>
+LinuxLoader-505-5gb.bin<br>
+LinuxLoader-505.bin<br>
+Linux_HDD_intern.bin<br>
+OrbisAFR.bin<br>
+payload-linux-505-2gb.bin<br>
+payload-linux-505-3gb.bin<br>
+payload-linux-505-4gb.bin<br>
+payload-linux-505.bin<br>
+payload-pro-linux-505-2gb.bin<br>
+payload-pro-linux-505-3gb.bin<br>
+payload-pro-linux-505-4gb.bin<br>
+payload-pro-linux-505.bin<br>
+PKG_BACKUP_v1.bin<br>
+PKG_BACKUP_v2.bin<br>
+PKG_BACKUP_v3.bin<br>
+PS4debug_v1.1.16.bin<br>
+ps4ren_v1.bin<br>
+PsxitarchV2-1GB-VRAM.bin<br>
+PsxitarchV2-2GB-VRAM.bin<br>
+PsxitarchV2-3GB-VRAM.bin<br>
+PsxitarchV2-NO-EDID.bin<br>
+reactPSPlus 31May2018 undo.bin<br>
+reactPSPlus.bin<br>
+Syscall_112_Installer.bin<br>
+tlou_Dev-Menu-5.05.bin<br>
+Update-Blocker-Extreme-uninstall.bin<br>
+Update-Blocker-Extreme.bin<br>
+
+
+## Add PS4 Payloads Collection FW6.72
+<a href=https://github.com/Systemx23x/payloads-ps4-672/>PS4 Payloads Collection FW6.72 github</a><br>
+
+## Include
+App2USB.bin<br>
+Backup.bin<br>
+Disable-Updates.bin<br>
+Dumper.bin<br>
+Enable-Browser.bin<br>
+Enable-Updates.bin<br>
+Fan-Threshold.bin<br>
+FTP.bin<br>
+ftp_server_v1.08a.bin<br>
+GoldHEN_v2.4b14.bin<br>
+HEN_v2.1.3.bin<br>
+HEN_v2.1.3b.bin<br>
+History-Blocker.bin<br>
+Kernel-Clock.bin<br>
+Kernel-Dumper.bin<br>
+LinuxLoader-672-2gb.bin<br>
+LinuxLoader-672-3gb.bin<br>
+LinuxLoader-672-4gb.bin<br>
+LinuxLoader-672-5gb.bin<br>
+LinuxLoader-672.bin<br>
+payload-linux-672-2gb.bin<br>
+payload-linux-672-3gb.bin<br>
+payload-linux-672-4gb.bin<br>
+payload-linux-672.bin<br>
+payload-linux-pro-672-2gb.bin<br>
+payload-linux-pro-672-3gb.bin<br>
+payload-linux-pro-672-4gb.bin<br>
+payload-linux-pro-672.bin<br>
+PS4debug_v1.1.16.bin<br>
+Restore.bin<br>
+RIF-Renamer.bin<br>
+tlou_Dev-Menu-6.72.bin<br>
+
+
+## Add PS4 Payloads Collection FW9.00
+<a href=https://github.com/Systemx23x/payloads-ps4-900/>PS4 Payloads Collection FW9.00 github</a><br>
+
+## Included
+app-dumper.bin<br>
+app-dumper_leeful.bin<br>
+app2usb.bin<br>
+backup.bin<br>
+disable-aslr.bin<br>
+disable-updates.bin<br>
+enable-browser.bin<br>
+enable-updates.bin<br>
+exit-idu.bin<br>
+fakeusb.bin<br>
+fan-speed-50.bin<br>
+fan-speed-55.bin<br>
+fan-speed-60.bin<br>
+fan-speed-65.bin<br>
+fan-speed-70.bin<br>
+fan-speed-75.bin<br>
+fan-speed-80.bin<br>
+fan-speed-default.bin<br>
+fan-threshold.bin<br>
+ftp.bin<br>
+game-dumper.bin<br>
+GTA5_ArabicGuy127.bin<br>
+GTA5_ArabicGuy132.bin<br>
+GTA5_ArabicGuy133.bin<br>
+GTA5_BeefQueefMod133.bin<br>
+GTA5_BeefQueefMod134.bin<br>
+GTA5_BeefQueefMod138.bin<br>
+GTA5_Expulsion_v2_135.bin<br>
+history-blocker.bin<br>
+kernel-clock.bin<br>
+kernel-dumper.bin<br>
+linux1gb.bin<br>
+linux2gb.bin<br>
+linux3gb.bin<br>
+linux4gb.bin<br>
+linux5gb.bin<br>
+module-dumper.bin<br>
+payload-linux-900-2gb.bin<br>
+payload-linux-900-3gb.bin<br>
+payload-linux-900-4gb.bin<br>
+payload-linux-900.bin<br>
+payload-linux-pro-900-2gb.bin<br>
+payload-linux-pro-900-3gb.bin<br>
+payload-linux-pro-900-4gb.bin<br>
+payload-linux-pro-900.bin<br>
+permanent-uart.bin<br>
+pkg-backup.bin<br>
+ps4debug_v1.1.16.bin<br>
+RDR2_OystersMenu100.bin<br>
+RDR2_OystersMenu113.bin<br>
+RDR2_OystersMenu119.bin<br>
+RDR2_OystersMenu124.bin<br>
+restore.bin<br>
+rif-renamer.bin<br>
+todex.bin<br>
+toolbox.bin<br>
+webrte.bin<br>
+
+
 
 ## Add PS4 Payloads Collection FW11.00
 <a href=https://github.com/Systemx23x/payloads-ps4-1100/>PS4 Payloads Collection FW11.00 github</a><br>
@@ -255,82 +460,6 @@ ps4-todex.bin<br>
 
 
 
-## Add PS4 Payloads Collection FW9.00
-<a href=https://github.com/Systemx23x/payloads-ps4-900/>PS4 Payloads Collection FW9.00 github</a><br>
-
-## Included
-ps4-app-dumper.bin<br>
-ps4-app2usb.bin<br>
-ps4-backup.bin<br>
-ps4-debug-1.1.16.bin<br>
-ps4-disable-aslr.bin<br>
-ps4-disable-updates.bin<br>
-ps4-enable-browser.bin<br>
-ps4-enable-updates.bin<br>
-ps4-exit-idu.bin<br>
-ps4-fakeusb.bin<br>
-ps4-fan-speed-50.bin<br>
-ps4-fan-speed-55.bin<br>
-ps4-fan-speed-60.bin<br>
-ps4-fan-speed-65.bin<br>
-ps4-fan-speed-70.bin<br>
-ps4-fan-speed-75.bin<br>
-ps4-fan-speed-80.bin<br>
-ps4-fan-speed-default.bin<br>
-ps4-fan-threshold.bin<br>
-ps4-ftp.bin<br>
-ps4-game-dumper.bin<br>
-ps4-GTA5_ArabicGuy127.bin<br>
-ps4-GTA5_ArabicGuy132.bin<br>
-ps4-GTA5_ArabicGuy133.bin<br>
-ps4-GTA5_BeefQueefMod133.bin<br>
-ps4-GTA5_BeefQueefMod134.bin<br>
-ps4-GTA5_BeefQueefMod138.bin<br>
-ps4-GTA5_Expulsion_v2_135.bin<br>
-ps4-history-blocker.bin<br>
-ps4-kernel-clock.bin<br>
-ps4-kernel-dumper.bin<br>
-ps4-linux-900-2gb.bin<br>
-ps4-linux-900-3gb.bin<br>
-ps4-linux-900-4gb.bin<br>
-ps4-linux-900.bin<br>
-ps4-linux-pro-900-2gb.bin<br>
-ps4-linux-pro-900-3gb.bin<br>
-ps4-linux-pro-900-4gb.bin<br>
-ps4-linux-pro-900.bin<br>
-ps4-linux1gb.bin<br>
-ps4-linux2gb.bin<br>
-ps4-linux3gb.bin<br>
-ps4-linux4gb.bin<br>
-ps4-linux5gb.bin<br>
-ps4-LinuxLoader.bin<br>
-ps4-LinuxLoader2gb.bin<br>
-ps4-LinuxLoader3gb.bin<br>
-ps4-LinuxLoader4gb.bin<br>
-ps4-LinuxLoader5gb.bin<br>
-ps4-module-dumper.bin<br>
-ps4-OrbisToolbox.bin<br>
-ps4-permanent-uart.bin<br>
-ps4-pkg-backup.bin<br>
-ps4-psxita_LinuxLoader.bin<br>
-ps4-psxita_LinuxLoader2gb.bin<br>
-ps4-psxita_LinuxLoader3gb.bin<br>
-ps4-psxita_LinuxLoader4gb.bin<br>
-ps4-psxita_LinuxLoader5gb.bin<br>
-ps4-RDR2_OystersMenu100.bin<br>
-ps4-RDR2_OystersMenu113.bin<br>
-ps4-RDR2_OystersMenu119.bin<br>
-ps4-RDR2_OystersMenu124.bin<br>
-ps4-restore.bin<br>
-ps4-rif-renamer.bin<br>
-ps4-todex.bin<br>
-ps4-toolbox.bin<br>
-ps4-webrte.bin<br>
-ps4-wtsb.bin<br>
-
-
-
-
 ## Add Ports for PS4 PC Tools Forwarding
 
 Games Reaper Studio = `744,755`<br>
@@ -340,6 +469,7 @@ PS4 Tools = `2811`<br>
 FTP Server = `1337,2121`<br>
 BinLoader Server = `8080,9020,9090`<br>
 Klog Server = `3232,5353,12800`<br>
+PSLAN = `1235,2811,3074,3075,5069`
 
 
 
@@ -390,12 +520,24 @@ sudo chmod 777 *
 sudo bash install.sh
 ```
 
-## Select FW9.00 or FW11.00 Payloads (After Reboot PI,connect Again and Add One of them)
+## Select FW4.00-7.00,FW5.05,FW6.72,FW9.00 and FW11.00 Payloads (After Reboot PI,connect SSH Again and Add One of them)
 
-## Payloads FW11.00
+## Payloads FW4.00-7.00
 ```sh
 sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-1100 /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-400-700 /boot/firmware/PPPwn/payloads
+```
+
+## Payloads FW5.05
+```sh
+sudo rm -f -r /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-505 /boot/firmware/PPPwn/payloads
+```
+
+## Payloads FW6.72
+```sh
+sudo rm -f -r /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-672 /boot/firmware/PPPwn/payloads
 ```
 
 ## Payloads FW9.00
@@ -404,9 +546,17 @@ sudo rm -f -r /boot/firmware/PPPwn/payloads
 git clone https://github.com/Systemx23x/payloads-ps4-900 /boot/firmware/PPPwn/payloads
 ```
 
+## Payloads FW11.00
+```sh
+sudo rm -f -r /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-1100 /boot/firmware/PPPwn/payloads
+```
+
+
+
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
 ```sh
-echo "744,755,987,1337,2121,2811,3232,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
+echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 
 <br>
