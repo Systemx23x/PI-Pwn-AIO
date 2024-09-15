@@ -189,16 +189,19 @@ There is also a webserver to control the pi, change settings and send payloads b
 ps4-apollo-save-wizard.pkg<br> 
 ps4-goldencheats.pkg<br> 
 ps4-homebrew-store.pkg<br> 
-ps4-itemzflow-game-manager.pkg<br> 
+ps4-game-manager-01.06.pkg<br> 
 ps4-logmein-hamachi.pkg<br> 
 ps4-orbis-ftp.pkg<br> 
 ps4-orbis-suite-3.0.pkg<br> 
 ps4-patch-installer.pkg<br> 
 ps4-tools.pkg<br> 
-ps4-webdav-client.pkg<br> 
+ps4-webdav-client-1.04.pkg<br> 
 ps4-webrte.pkg<br> 
-ps4-xplorer-1.pkg<br> 
-ps4-xplorer-2.pkg<br> 
+ps4-icon-mask_v1.15.pkg<br>
+ps4-xplorer-2.03.pkg<br>
+ps4-ftp-client-1.08.pkg<br>
+ps4-cheats-manager-01.22.pkg<br>
+ps4-game-bato.pkg<br>
 ps4-youtube.pkg<br>
 
 
@@ -212,7 +215,8 @@ ps4-youtube.pkg<br>
 
 ## Include
 Chiaki-v2.2.0-Windows-x86_64.zip<br>
-DS4_Tool.zip<br>, FTP_Dump.zip<br>
+DS4_Tool.zip<br> 
+FTP_Dump.zip<br>
 GoldHEN_Cheats_Updater.zip<br>
 ps4-Fake-PKG-Tools-3.87_V6_MoD_By_System23.zip<br>
 ps4-Game-Cheater-1.5.4.7-Rev2-x64.zip<br>
