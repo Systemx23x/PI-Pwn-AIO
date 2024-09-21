@@ -226,6 +226,22 @@ ps4-Games-Reaper-Studio-1.0.4.1.zip<br>
 ps4-GoldHEN-Cheats-Updater-and-Converter.zip<br>
 
 
+## PS4 Fake PKG Tools 3.87 V6 By Cyb1k & Modded By System23
+
+A AllInOne Solution to Extract/Repack/Verify/Editing PKG Files, with DLC Creators,Trophy Unlocker and a Video How to Merge Game & Patch in One PKG (100% Working Solution),<br>
+this Binarys are Called by Executables they need Manual commands drag&drop copy&paste, all needed Extras are Included!!!!!<br>
+
+Its the only Solution to Merge Game & Patch in One PKG with correct Working and Informations.<br>
+
+(I have Merge all my Games with the Patches, and when someone Release a newer Patch, extract Merged PKG and copy&paste Patch over it and Rebuild PKG)<br>
+
+<a href=https://github.com/Systemx23x/PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23/releases/tag/latest>PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23</a><br>
+
+Here the Video Tutorial to Merge
+
+<a href=https://www.youtube.com/watch?v=yn5NOfwzaOo&t=15s>Merge Game & Patch to One PKG Video Tutorial</a><br>
+
+
 
 ## Add PS4 Payloads Collection FW4.00-7.00
 <a href=https://github.com/Systemx23x/payloads-ps4-400-700/>PS4 Payloads Collection FW4.00-7.00 github</a><br>
