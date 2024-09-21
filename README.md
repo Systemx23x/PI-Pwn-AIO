@@ -237,9 +237,11 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 <a href=https://github.com/Systemx23x/PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23/releases/tag/latest>PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23</a><br>
 
-Here the Video Tutorial to Merge
 
-<a href=https://www.youtube.com/watch?v=yn5NOfwzaOo&t=15s>Merge Game & Patch to One PKG Video Tutorial</a><br>
+
+## Here the Video Tutorial to Merge into One PKG
+
+<a href="https://www.youtube.com/embed/yn5NOfwzaOo?si=HB2Uea5pLI2Rxx34">Merge Game & Patch to One PKG Video Tutorial</a><br>
 
 
 
