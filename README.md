@@ -1,9 +1,14 @@
-# PI-Pwn-AIO
-## PI-Pwn-AIO Section Added to have it Perfektly as All-in-One Package Solution
+# PI-PWN-All-In-One
+###################<br>
+## PI-PWN-All-In-One Section Added to have it Perfektly as `All-in-One Package Solution` with all Needed Extras
+###############################################################################################################<br>
+This is a script to Setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the Raspberry PI.<br>
 
-This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the Raspberry PI.<br> 
+##GoldHEN Support
+#################<br>
 
-<a href=https://ko-fi.com/SiSTRo/shop>latest GoldHEN Releases</a> Support this Firmware Versions<br>
+<a href=https://ko-fi.com/SiSTRo/shop>latest GoldHEN Releases</a><br>
+Support these Firmware Versions<br>
 
 9.00<br>
 9.60<br>
@@ -11,44 +16,14 @@ This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn
 10.01<br>
 11.00<br>
 
-## Recovery Update Downloads for 9.00,9.60,10.00,10.01,11.00<br>
-
-## Download ALL
-
-<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.00/PS4UPDATE.PUP>PS4 Recovery Firmware 9.00</a><br>
-MD5 Hash = 674420f041cb5845aae85928751ccd0e<br>
-Size = 1020MB<br>
-
-<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%209.60/PS4UPDATE.PUP>PS4 Recovery Firmware 9.60</a><br>
-MD5 Hash = 4ca1c1dc093563044c620cbf0e7afa2e<br>
-Size = 1022MB<br>
-
-<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.00/PS4UPDATE.PUP>PS4 Recovery Firmware 10.00</a><br>
-MD5 Hash = bcc0022f9c9d3261165046339ff33c92<br>
-Size = 1075MB<br>
-
-<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2010.01/PS4UPDATE.PUP>PS4 Recovery Firmware 10.01</a><br>
-MD5 Hash = 87668869af230ac26f859278d10402b1<br>
-Size = 1075MB<br>
-
-<a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%2011.00/PS4UPDATE.PUP>PS4 Recovery Firmware 11.00</a><br>
-MD5 Hash = fcd0a674a7d78fdb545ea97344d2f86f<br>
-Size = 1025MB<br>
-
-## HowToDo
-################################<br>
-Create a USB Drive with min. 2GB FAT32/EXFAT Formated<br>
-and Create a Folder in root of USB<br>
-PS4<br>
-into that Folder PS4 you Create<br>
-UPDATE<br>
-and into X:\PS4\UPDATE you Copy the<br>
-PS4UPDATE.PUP File<br>
-Finish!!!!<br>
 
 <br>
 
-<a href=https://github.com/EchoStretch/ps4-hen-vtx>ps4-hen-vtx</a> Support these Firmware Versions<br>
+##VTX-HEN Support
+#################<br>
+
+<a href=https://github.com/EchoStretch/ps4-hen-vtx>PS4-HEN-VTX</a><br>
+Support these Firmware Versions<br>
 
 7.00, 7.01, 7.02<br>
 7.50, 7.51, 7.55<br>
@@ -62,9 +37,11 @@ Finish!!!!<br>
 11.00<br>
 
 
-## Recovery Update Downloads from 7.00 to 11.00<br>
+<br>
 
-## Download ALL
+
+## Recovery Update Downloads from 7.00 to 11.00
+###############################################<br>
 
 <a href=https://archive.org/download/PS4-Recovery-Firmwares/Firmware%207.00/PS4UPDATE.PUP>PS4 Recovery Firmware 7.00</a><br>
 MD5 Hash = 60f1b903868ba7a8d35ab00f6782addc<br>
@@ -146,9 +123,9 @@ Size = 1023MB<br>
 MD5 Hash = fcd0a674a7d78fdb545ea97344d2f86f<br>
 Size = 1025MB<br>
 
-## HowToDo
-################################<br>
-Create a USB Drive with min. 2GB FAT32/EXFAT Formated<br>
+## HowToDo Use Recovery Update PUP
+##################################<br>
+Create a USB Drive with min. 2GB FAT32/exFAT Formated<br>
 and Create a Folder in root of USB<br>
 PS4<br>
 into that Folder PS4 you Create<br>
@@ -159,31 +136,33 @@ Finish!!!!<br>
 
 <br>
 
-It also supports internet access after pwn and access to ftp, klog and binloader servers launched by goldhen.<br>
-A dns blocker is also installed and used to prevent updates.<br>
 
-The <a href=https://www.raspberrypi.com/products/raspberry-pi-4-model-b/>Raspberry Pi 4</a>, <a href=https://www.raspberrypi.com/products/raspberry-pi-400/>Raspberry Pi 400</a> and <a href=https://www.raspberrypi.com/products/raspberry-pi-5/>Raspberry Pi 5</a> can pass through a usb drive inserted into the pi to the console if the pi is plugged into the console usb port<br>
+It also Supports Internet Access after PWN and Access to FTP, Klog and Binloader Servers launched by GoldHEN.<br>
+A DNS Blocker is also Installed and used to Prevent Updates.<br>
 
-There is also a webserver to control the pi, change settings and send payloads by accessing http://pppwn.local from the console or your pc if you have internet access enabled.<br> 
+The <a href=https://www.raspberryPI.com/products/raspberry-PI-4-model-b/>Raspberry PI 4B</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-400/>Raspberry PI 400</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-5/>Raspberry PI 5</a><br>
+can Pass through a USB drive Inserted into the PI to the Console if the PI is Plugged into the console USB Port<br>
+
+There is also a Webserver to Control the PI, change Settings and send Payloads by Accessing `http://pppwn.local/` from the Console or your PC if you have Internet access Enabled.<br> 
 
 <br>
 
 ## Add Raspberry PI OS Lite and Tool
-<a href=https://github.com/Systemx23x/pi-os/>Raspberry PI OS Lite and Tool github</a><br>
+<a href=https://github.com/Systemx23x/PI-os/>Raspberry PI OS Lite and Tool github</a><br>
 
 ## Download All
-<a href=http://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit)</a><br>
-<a href=http://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-03-15/2024-03-15-raspios-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit)</a><br>
-<a href=http://downloads.raspberrypi.com/imager/imager_1.8.5.exe>PI-Imager-1.8.5-Windows-exe</a><br>
-<a href=http://downloads.raspberrypi.com/imager/imager_1.8.5_amd64.deb>PI-Imager-1.8.5-Linux-deb</a><br>
-<a href=http://downloads.raspberrypi.com/imager/imager_1.8.5.dmg>PI-Imager-1.8.5-MacOS-dmg</a><br>
+<a href=http://downloads.raspberryPI.com/rasPIos_lite_armhf/images/rasPIos_lite_armhf-2024-03-15/2024-03-15-rasPIos-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit)</a><br>
+<a href=http://downloads.raspberryPI.com/rasPIos_lite_arm64/images/rasPIos_lite_arm64-2024-03-15/2024-03-15-rasPIos-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit)</a><br>
+<a href=http://downloads.raspberryPI.com/imager/imager_1.8.5.exe>PI-Imager-1.8.5-Windows-exe</a><br>
+<a href=http://downloads.raspberryPI.com/imager/imager_1.8.5_amd64.deb>PI-Imager-1.8.5-Linux-deb</a><br>
+<a href=http://downloads.raspberryPI.com/imager/imager_1.8.5.dmg>PI-Imager-1.8.5-MacOS-dmg</a><br>
 
 
 ## Add PS4 Homebrew FPKG Collection
-<a href=https://github.com/Systemx23x/ps4-homebrew-fpkg/>PS4 Homebrew FPKG Collection github</a><br>
 
-## Download All
-<a href=https://c.1und1.de/@1157988897574099954/cG7vCuk6RMyYWAu5SpWLNw>Download All</a><br>
+<a href=https://c.1und1.de/@1157988897574099954/cG7vCuk6RMyYWAu5SpWLNw>PS4 Homebrew FPKG Collection 1&1 Link</a><br>
 
 ## Include
 ps4-apollo-save-wizard.pkg<br> 
@@ -208,13 +187,8 @@ ps4-youtube.pkg<br>
 
 
 ## Add PS4 PC Tools Collection
-<a href=https://github.com/Systemx23x/ps4-pc-tools/>PS4 PC Tools Collection github</a><br>
 
-
-<br>
-
-## Download All
-<a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>Download All</a><br>
+<a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>PS4 PC Tools Collection 1&1</a><br>
 
 ## Include
 Chiaki-v2.2.0-Windows-x86_64.zip<br>
@@ -231,8 +205,8 @@ ps4-GoldHEN-Cheats-Updater-and-Converter.zip<br>
 
 ## PS4 Fake PKG Tools 3.87 V6 By Cyb1k & Modded By System23
 
-A AllInOne Solution to Extract/Repack/Verify/Editing PKG Files, with DLC Creators,Trophy Unlocker and a Video How to Merge Game & Patch in One PKG (100% Working Solution),<br>
-this Binarys are Called by Executables they need Manual commands drag&drop copy&paste, all needed Extras are Included!!!!!<br>
+A AllInOne Solution to `Extract/Repack/Verify/Editing` PKG Files, with DLC Creators,Trophy Unlocker and a Video How to Merge Game & Patch in One PKG (100% Working Solution),<br>
+this Binarys are Called by Executables they need Manual commands `drag&drop` `copy&paste`, all needed Extras are Included!!!!!<br>
 
 Its the only Solution to Merge Game & Patch in One PKG with correct Working and Informations.<br>
 
@@ -415,14 +389,14 @@ git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPw
 ## Included
 app-dumper.bin<br>
 app-dumper_leeful.bin<br>
-app2usb.bin<br>
+app2USB.bin<br>
 backup.bin<br>
 disable-aslr.bin<br>
 disable-updates.bin<br>
 enable-browser.bin<br>
 enable-updates.bin<br>
 exit-idu.bin<br>
-fakeusb.bin<br>
+fakeUSB.bin<br>
 fan-speed-50.bin<br>
 fan-speed-55.bin<br>
 fan-speed-60.bin<br>
@@ -481,13 +455,13 @@ git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPP
 
 ## Include
 ps4-app-dumper.bin<br> 
-ps4-app2usb.bin<br> 
+ps4-app2USB.bin<br> 
 ps4-dbbackup.bin<br> 
 ps4-debug-1.1.16.bin<br> 
 ps4-disable_updates_11.00.bin<br> 
 ps4-fan-threshold.bin<br> 
 ps4-ftp.bin<br> 
-ps4-goldhen-2.4b17.3.bin<br> 
+ps4-GoldHEN-2.4b17.3.bin<br> 
 ps4-hen-1100-PPPwn-vtx.bin<br>
 ps4-history-blocker.bin<br> 
 ps4-kernel-dumper.bin<br> 
@@ -521,89 +495,64 @@ PSLAN = `1235,2811,3074,3075,5069`
 
 
 
-## Add PI-Pwn-AIO
+## Add PI-PWN-AIO
 ```
-git clone https://github.com/Systemx23x/PI-Pwn-AIO
+git clone https://github.com/Systemx23x/PI-PWN-AIO.git
 ```
 
 
 
 ## Tested PI Models
 
-These are models i have tested with but pi-pwn is not limited to these models.<br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-5/>Raspberry Pi 5</a><br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-4-model-b/>Raspberry Pi 4 Model B</a><br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-400/>Raspberry Pi 400</a><br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/>Raspberry Pi 3B+</a><br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-2-model-b/>Raspberry Pi 2 Model B</a><br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/>Raspberry Pi Zero 2 W</a> with usb to ethernet adapter<br>
-<a href=https://www.raspberrypi.com/products/raspberry-pi-zero-w/>Raspberry Pi Zero W</a> with usb to ethernet adapter<br>
-<a href=https://wiki.radxa.com/Rock4/4cplus>ROCK PI 4C Plus</a> with armbian <a href=https://imola.armbian.com/archive/rockpi-4cplus/archive/Armbian_23.11.1_Rockpi-4cplus_bookworm_current_6.1.63.img.xz>Image</a><br>
-<a href=https://biqu.equipment/products/bigtreetech-btt-pi-v1-2>BIGTREETECH BTT Pi V1.2</a> with armbian <a href=https://www.armbian.com/bigtreetech-cb1/>minimal</a><br>
+These are models i have tested with but PI-PWN is not limited to these models.<br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-5/>Raspberry PI 5</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-4-model-b/>Raspberry PI 4 Model B</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-400/>Raspberry PI 400</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-3-model-b-plus/>Raspberry PI 3B+</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-2-model-b/>Raspberry PI 2 Model B</a><br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-zero-2-w/>Raspberry PI Zero 2 W</a> with USB to ethernet adapter<br>
+<a href=https://www.raspberryPI.com/products/raspberry-PI-zero-w/>Raspberry PI Zero W</a> with USB to ethernet adapter<br>
+<a href=https://wiki.radxa.com/Rock4/4cplus>ROCK PI 4C Plus</a> with armbian <a href=https://imola.armbian.com/archive/rockPI-4cplus/archive/Armbian_23.11.1_RockPI-4cplus_bookworm_current_6.1.63.img.xz>Image</a><br>
+<a href=https://biqu.equipment/products/bigtreetech-btt-PI-v1-2>BIGTREETECH BTT PI V1.2</a> with armbian <a href=https://www.armbian.com/bigtreetech-cb1/>minimal</a><br>
 <a href=https://www.linksprite.com/linksprite-pcduino3/>pcDuino3b</a> with armbian <a href=https://imola.armbian.com/archive/pcduino3nano/archive/Armbian_5.38_Pcduino3nano_Debian_jessie_next_4.14.14.7z>Image</a><br>
 
 
-## Install PI-Pwn-AIO
-<br>
+## Install PI-PWN-AIO
 
-You need to install Raspberry Pi OS Lite or <a href="https://www.armbian.com/">Armbian Cli / Minimal</a> onto a sdcard or a USB-Drive with PI-Imager<br>
-
-Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following commands<br>
 
 <br>
 
-## Setup & Config PI-Pwn (After Finish the PI Reboot)
+You need to install Raspberry PI OS Lite onto a sdcard or a USB-Drive with PI-Imager<br>
 
-```sh
+Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following command<br>
+
+```
+ssh username@PPPwn.local
+```
+
+<br>
+
+## Setup & Config PI-PWN (After Finish the PI Reboot)
+
+```
 sudo apt update
 sudo apt upgrade
 sudo apt install git -y
-sudo rm -f -r ~/PI-Pwn
-sudo systemctl stop pipwn
-git clone https://github.com/stooged/PI-Pwn ~/PI-Pwn
-cd ~/PI-Pwn
+sudo rm -f -r ~/PI-PWN
+sudo systemctl stop PIpwn
+git clone https://github.com/Systemx23x/PI-PWN-AIO.git ~/PI-PWN
+cd ~/PI-PWN
 sudo cp -r PPPwn /boot/firmware/
 cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
 ```
 
-## Select FW4.00-7.00,FW5.05,FW6.72,FW9.00 and FW11.00 Payloads (After Reboot PI,connect SSH Again and Add One of them)
-
-## Payloads FW4.00-7.00
-```sh
-sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-400-700 /boot/firmware/PPPwn/payloads
-```
-
-## Payloads FW5.05
-```sh
-sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-505 /boot/firmware/PPPwn/payloads
-```
-
-## Payloads FW6.72
-```sh
-sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-672 /boot/firmware/PPPwn/payloads
-```
-
-## Payloads FW9.00
-```sh
-sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-900 /boot/firmware/PPPwn/payloads
-```
-
-## Payloads FW11.00
-```sh
-sudo rm -f -r /boot/firmware/PPPwn/payloads
-git clone https://github.com/Systemx23x/payloads-ps4-1100 /boot/firmware/PPPwn/payloads
-```
-
-
+<br>
 
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
-```sh
+
+```
 echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 
@@ -611,11 +560,11 @@ echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,92
 
 During the install process you will be asked to set some options.<br>
 
-If you are using a <b>usb to ethernet adapter</b> for the connection to the console you need to select yes<br>
-If your pi has an ethernet port and you are using a usb to ethernet adapter your interface for the usb adapter should be eth1<br>
-If you are using something like a pi zero 2 the interface will be eth0<br>
+If you are using a <b>USB to ethernet adapter</b> for the connection to the console you need to select yes<br>
+If your PI has an ethernet port and you are using a USB to ethernet adapter your interface for the USB adapter should be eth1<br>
+If you are using something like a PI zero 2 the interface will be eth0<br>
 
-Once the pi reboots pppwn will run automatically.<br>
+Once the PI reboots PPPwn will run automatically.<br>
 
 
 
@@ -630,86 +579,122 @@ Once the pi reboots pppwn will run automatically.<br>
 - Choose `Do Not Use` for `Proxy Server`<br>
 
 
-For GoldHen you need to place the goldhen.bin file onto the root of a usb drive and plug it into the console.<br>
-Once goldhen has been loaded for the first time it will be copied to the consoles internal hdd and the usb is no longer required.<br>
-To update goldhen just repeat the above process and the new version will be copied to the internal hdd<br>
+For GoldHEN you need to place the GoldHEN.bin File onto the root of a USB Drive Formated as FAT32/exFAT and Plug it into the Console.<br>
+Once GoldHEN has been loaded for the first time it will be coPIed to the Consoles Internal HDD and the USB is no longer Required.<br>
+To update GoldHEN just Repeat the above Process and the new version will be coPIed to the internal HDD<br>
 
 
 ## Console FTP / Binload
 
-If the pi pwn was setup to allow internet access you can use the ftp, klog, and binloader servers on the console<br>
-Your pi must be also connected to your home network via wifi or a second ethernet connection<br>
-To connect to the servers from your pc just connect to the raspberry pi ip on your network and all requests will be forwarded to the console<br>
-
-For ftp make sure you set the transfer mode on your ftp client software to `Active` not passive.<br>
+If the PI-PWN was Setup to allow Internet access you can use the FTP, Klog, and Binloader Servers on the Console<br>
 
 
-## USB pass through drive
+## Here the FTP Client Windows PC
 
-You can put a usb flash drive in the pi and that will be mounted to the console, you must put a folder on the root of the drive called "payloads"<br>
-To use this feature you must plug the raspberry pi 4 / 400 / 5 into the consoles usb port using the usb-c connection on the pi.<br>
-If you have power issues you can use a usb Y cable to inject power from another source but in my tests both pi variants ran using a single cable.<br>
+<a href="https://filezilla-project.org/download.php?type=client">FileZilla FTP Client Download</a><br>
+
+
+<br>
+
+
+Your PI must be also Connected to your Home Network via WIFI or a second Ethernet Connection<br>
+To connect to the servers from your pc just connect to the Raspberry PI 
+IP/Link `username@192.x.x.x` or `username@PPPwn.local` on your Network and all Requests will be forwarded to the Console<br>
+
+For FTP make sure you Set the Transfer Mode on your FTP Client Software to `Active` not `Passive`.<br>
+
+
+## USB Pass through Drive
+
+You can put a USB Flash Drive in the PI and that will be Mounted to the Console, you must put a Folder on the root of the Drive called "payloads"<br>
+
+<br>
+
+To use this Feature you must Plug the Raspberry PI 4 / 400 / 5 into the Consoles USB Port using the USB-C connection on the PI.<br>
+
+<br>
+
+If you have Power issues you can use a USB Y Cable to Inject Power from another Source but in my tests both PI variants run Using a Single Cable.<br>
 
 
 ## Rest Mode
 
-You can enable the option to detect if goldhen is running in the options which will cause pi-pwn to check if goldhen is active before running pppwn, this is useful for rest mode<br>
-If you have the pi powered from the console usb port you must disable "Supply Power to USB Ports" in the rest mode settings of the console.<br>
-The console must also use the PPPoe user and pass set for the "console internet connection" of pi-pwn or the defaults if you never changed them which are ppp for both user and password.<br>
+You can Enable the Option to detect if GoldHEN is running in the Options which will cause PI-PWN to check if GoldHEN is active before running PPPwn, this is useful for rest mode<br>
+
+<br>
+
+If you have the PI Powered from the Console USB Port you must Disable "Supply Power to USB Ports" in the rest mode settings of the Console.<br>
+
+<br>
+
+The Console must also use the PPPoe User and Password set for the "Console Internet Connection" of PI-PWN or the Defaults if you never changed them which are<br>
+
+```
+user = ppp
+password = ppp
+```
 
 
 ## PI FTP
 
-If you install FTP to access the pppwn folder for the exploit files you must use your root login user/pass to access the server.<br>
-The ftp server uses the standard ports 21 and 20.
+If you Install FTP to access the PPPwn Folder for the Exploit Files you must use your root Login `user/password` to Access the Server.<br>
+The FTP Server uses the Standard Ports `21` & `20`.<br>
+
+
+<br>
 
 ## PI Samba
 
-If you setup samba to access the pppwn folder for the exploit files you can access the drive on... <br>
-` \\pppwn.local\pppwn `<br>
+If you Setup Samba to Access the PPPwn Folder for the Exploit Files you can Access the Drive on... <br>
+` \\PPPwn.local\PPPwn `<br>
 or <br>
-` smb:\\pppwn.local\pppwn `<br>
+` smb:\\PPPwn.local\PPPwn `<br>
 <br>
-The share has no user/password required to access it.
+The Share has no `user/password` Required to Access it.
 
 
 ## What it does
 
-Once everything is setup and the ethernet cable is plugged in between the pi and the console the pi should automatically try and pwn the console.<br>
-The exploit may fail many times but the pi will continue to purge the console to keep trying to pwn itself.<br>
-Once pwned the process will stop and the pi will shut down if you are not using internet access. <br>
+Once everything is Setup and the Ethernet Cable is plugged in between the PI and the Console the PI should automatically try and PWN the Console.<br>
+The Exploit may fail many Times but the PI will continue to Purge the Console to keep trying to PWN Itself.<br>
+Once PWNED the Process will Stop and the PI will shut down if you are not using Internet Access.<br>
 
-The idea is you boot the console and the pi together and the pi will keep trying to pwn the console without any input from you, just wait on the home screen until the process completes<br>
+The idea is you Boot the Console and the PI together and the PI will keep trying to PWN the Console without any Input from you, just wait on the Home Screen until the Process completes<br>
 
 
 ## Updating
 
-You can edit the exploit scripts by putting the sd card in your computer and going to the PPPwn folder.<br>
-The commands above can also be run again to install updates or change the settings.<br>
-You can also click the update button on the web ui.<br>
+You can edit the Exploit scripts by putting the SD Card in your Computer and going to the PPPwn Folder.<br>
+The commands above can also be run again to Install Updates or Change the Settings.<br>
+You can also Click the Update Button on the Web UI.<br>
 
 
 ## Options
 
- `Interface` - this is the lan interface on the pi that is connected to the console.<br><br>
- `Firmware version` - version of firmware running on the console.<br><br>
- `Time to restart PPPwn if it hangs` - a timeout in minutes to restart pppwn if the exploit hangs mid process.<br><br>
- `Led activity` - on selected pi models this will have the leds flash based on the exploit progress.<br><br>
- `Use Python version` - enabling this will force the use of the original python pppwn released by <a href=https://github.com/TheOfficialFloW/PPPwn>TheOfficialFloW</a> <br><br>
- `Use GoldHen if available for selected firmware` - if this is not enabled or your firmware has no goldhen available vtx-hen will be used.<br><br>
- `Use original source ipv6` - this will force pppwn to use the original ipv6 address that was used in pppwn as on some consoles it increases the speed of pwn.<br><br>
- `Use usb ethernet adapter for console connection` - only enable this if you are using a usb to ethernet adapter to connect to the console.<br><br>
- `Detect if goldhen is running` - this will make pi-pwn check if goldhen is loaded on the console and skip running pppwn if it is running.<br><br>
- `Detect console shutdown and restart PPPwn` - with this enabled if the link is lost between the pi and the console pppwn will be restarted.<br><br>
- `Enable verbose PPPwn` - enables debug output from pppwn so you can see the exploit progress.<br><br>
- `Enable console internet access` - enabling this will make pi-pwn setup a connection to the console allowing internet access after pppwn succeeds.<br><br>
- `Disable DNS blocker` - enabling this will turn off the dns blocker that blocks certain servers that are used for updates and telemetry. <br><br>
- `Shutdown PI after PWN` - if enabled this will make the pi shutdown after pppwn succeeds.<br><br>
- `Enable usb drive to console` - on selected pi models this will allow a usb drive in the pi to be passed through to the console.<br><br>
- `Ports` - this is a list of ports that are forwarded from the pi to the console, single ports or port ranges can be used.<br><br>
+ `Interface` - this is the lan interface on the PI that is Connected to the Console.<br><br>
+ `Firmware version` - version of Firmware running on the Console.<br><br>
+ `Time to restart PPPwn if it hangs` - a Timeout in Minutes to restart PPPwn if the Exploit hangs mid process.<br><br>
+ `Led activity` - on selected PI Models this will have the Leds flash based on the Exploit Progress.<br><br>
+ `Use Python version` - Enabling this will force the use of the original Python PPPwn Released by <a href=https://github.com/TheOfficialFloW/PPPwn>TheOfficialFloW PPPwn</a><br><br>
+ `Use GoldHEN if available for selected Firmware` - if this is not enabled or your Firmware has no GoldHEN available vtx-HEN will be Used.<br><br>
+ `Use original source IPv6` - this will force PPPwn to use the Original IPv6 Address that was used in PPPwn as on some Consoles it increases the Speed of PWN.<br><br>
+ `Use USB ethernet Adapter for Console connection` - only enable this if you are using a USB to ethernet Adapter to connect to the Console.<br><br>
+ `Detect if GoldHEN is running` - this will make PI-PWN check if GoldHEN is loaded on the Console and skip running PPPwn if it is running.<br><br>
+ `Detect Console shutdown and restart PPPwn` - with this Enabled if the link is lost between the PI and the Console PPPwn will be restarted.<br><br>
+ `Enable verbose PPPwn` - enables debug Output from PPPwn so you can see the Exploit progress.<br><br>
+ `Enable console internet access` - Enabling this will make PI-PWN Setup a Connection to the console allowing Internet access after PPPwn succeeds.<br><br>
+ `Disable DNS blocker` - enabling this will turn off the DNS Blocker that blocks certain Servers that are used for Updates and Telemetry. <br><br>
+ `Shutdown PI after PWN` - if Enabled this will make the PI shutdown after PPPwn succeeds.<br><br>
+ `Enable USB drive to console` - on selected PI models this will allow a USB Drive in the PI to be passed through to the Console.<br><br>
+ `Ports` - this is a list of Ports that are forwarded from the PI to the Console, single Ports or Port ranges can be used.<br><br>
  
  
  ## Credits
  
- All credit goes to <a href=https://github.com/TheOfficialFloW>TheOfficialFloW</a>, <a href=https://github.com/xfangfang>xfangfang</a>, <a href=https://github.com/SiSTR0>SiSTR0</a>, <a href=https://github.com/xvortex>Vortex</a>, <a href=https://github.com/EchoStretch>EchoStretch</a> and many other people who have made this project possible.<br><br>
+ All credit goes to <a href=https://github.com/TheOfficialFloW>TheOfficialFloW</a><br><br>
+ <a href=https://github.com/xfangfang>xfangfang</a><br><br>
+ <a href=https://github.com/SiSTR0>SiSTR0</a><br><br>
+ <a href=https://github.com/xvortex>Vortex</a><br><br>
+ <a href=https://github.com/EchoStretch>Echo Stretch</a><br><br>
+ and many other people who have made this project possible.<br><br>
  
