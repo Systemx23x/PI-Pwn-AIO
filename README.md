@@ -210,6 +210,9 @@ ps4-youtube.pkg<br>
 ## Add PS4 PC Tools Collection
 <a href=https://github.com/Systemx23x/ps4-pc-tools/>PS4 PC Tools Collection github</a><br>
 
+
+<br>
+
 ## Download All
 <a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>Download All</a><br>
 
@@ -239,6 +242,10 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 
 
+
+<br>
+
+
 ## Here the Video Tutorial to Merge into One PKG
 
 <a href="https://www.youtube.com/embed/yn5NOfwzaOo?si=HB2Uea5pLI2Rxx34">Merge Game & Patch to One PKG Video Tutorial</a><br>
@@ -247,8 +254,12 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 <br>
 
+
 ## Add PS4 Payloads Collection FW4.00-7.00
-<a href=https://github.com/Systemx23x/payloads-ps4-400-700/>PS4 Payloads Collection FW4.00-7.00 github</a><br>
+```
+mkdir -p /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
+```
 
 ## Include
  App2USB.bin<br>
@@ -267,7 +278,10 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 
 ## Add PS4 Payloads Collection FW5.05
-<a href=https://github.com/Systemx23x/payloads-ps4-505/>PS4 Payloads Collection FW5.05 github</a><br>
+```
+mkdir -p /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
+```
 
 ## Include
 App2USB v3.bin<br>
@@ -352,7 +366,10 @@ Update-Blocker-Extreme.bin<br>
 
 
 ## Add PS4 Payloads Collection FW6.72
-<a href=https://github.com/Systemx23x/payloads-ps4-672/>PS4 Payloads Collection FW6.72 github</a><br>
+```
+mkdir -p /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
+```
 
 ## Include
 App2USB.bin<br>
@@ -390,7 +407,10 @@ tlou_Dev-Menu-6.72.bin<br>
 
 
 ## Add PS4 Payloads Collection FW9.00
-<a href=https://github.com/Systemx23x/payloads-ps4-900/>PS4 Payloads Collection FW9.00 github</a><br>
+```
+mkdir -p /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
+```
 
 ## Included
 app-dumper.bin<br>
@@ -454,7 +474,10 @@ webrte.bin<br>
 
 
 ## Add PS4 Payloads Collection FW11.00
-<a href=https://github.com/Systemx23x/payloads-ps4-1100/>PS4 Payloads Collection FW11.00 github</a><br>
+```
+mkdir -p /boot/firmware/PPPwn/payloads
+git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
+```
 
 ## Include
 ps4-app-dumper.bin<br> 
