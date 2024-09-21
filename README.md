@@ -245,6 +245,8 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 
 
+<br>
+
 ## Add PS4 Payloads Collection FW4.00-7.00
 <a href=https://github.com/Systemx23x/payloads-ps4-400-700/>PS4 Payloads Collection FW4.00-7.00 github</a><br>
 
@@ -497,8 +499,9 @@ PSLAN = `1235,2811,3074,3075,5069`
 
 
 ## Add PI-Pwn-AIO
-<a href=https://github.com/Systemx23x/PI-Pwn-AIO/>PI-Pwn-AIO github</a><br>
-
+```
+git clone https://github.com/Systemx23x/PI-Pwn-AIO
+```
 
 
 
