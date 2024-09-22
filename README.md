@@ -231,7 +231,6 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 ## Add PS4 Payloads Collection FW4.00-7.00
 ```
-mkdir -p /boot/firmware/PPPwn/payloads
 git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
 ```
 
@@ -253,7 +252,6 @@ git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/
 
 ## Add PS4 Payloads Collection FW5.05
 ```
-mkdir -p /boot/firmware/PPPwn/payloads
 git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
 ```
 
@@ -341,7 +339,6 @@ Update-Blocker-Extreme.bin<br>
 
 ## Add PS4 Payloads Collection FW6.72
 ```
-mkdir -p /boot/firmware/PPPwn/payloads
 git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
 ```
 
@@ -382,7 +379,6 @@ tlou_Dev-Menu-6.72.bin<br>
 
 ## Add PS4 Payloads Collection FW9.00
 ```
-mkdir -p /boot/firmware/PPPwn/payloads
 git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
 ```
 
@@ -449,7 +445,6 @@ webrte.bin<br>
 
 ## Add PS4 Payloads Collection FW11.00
 ```
-mkdir -p /boot/firmware/PPPwn/payloads
 git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
 ```
 
@@ -479,28 +474,7 @@ ps4-pup-decrypter.bin<br>
 ps4-todex.bin<br>
 
 
-
-
-## Add Ports for PS4 PC Tools Forwarding
-
-Games Reaper Studio = `744,755`<br>
-Games Cheater = `744,755`<br>
-Chiaki = `987,9295,9296,9297`<br>
-PS4 Tools = `2811`<br>
-FTP Server = `1337,2121`<br>
-BinLoader Server = `8080,9020,9090`<br>
-Klog Server = `3232,5353,12800`<br>
-PSLAN = `1235,2811,3074,3075,5069`
-
-
-
-
-## Add PI-PWN-AIO
-```
-git clone https://github.com/Systemx23x/PI-PWN-AIO.git
-```
-
-
+<br>
 
 ## Tested PI Models
 
@@ -517,17 +491,17 @@ These are models i have tested with but PI-PWN is not limited to these models.<b
 <a href=https://www.linksprite.com/linksprite-pcduino3/>pcDuino3b</a> with armbian <a href=https://imola.armbian.com/archive/pcduino3nano/archive/Armbian_5.38_Pcduino3nano_Debian_jessie_next_4.14.14.7z>Image</a><br>
 
 
-## Install PI-PWN-AIO
+## Install PI-PWN-All-In-One
 
 
 <br>
 
 You need to install Raspberry PI OS Lite onto a sdcard or a USB-Drive with PI-Imager<br>
 
-Place the sdcard/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following command<br>
+Place the SDCARD/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following Commands<br>
 
 ```
-ssh username@PPPwn.local
+ssh username@pppwn.local
 ```
 
 <br>
@@ -535,22 +509,44 @@ ssh username@PPPwn.local
 ## Setup & Config PI-PWN (After Finish the PI Reboot)
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install git -y
-sudo rm -f -r ~/PI-PWN
-sudo systemctl stop PIpwn
+sudo apt update -y && sudo apt upgrade -y && sudo apt install git -y
 git clone https://github.com/Systemx23x/PI-PWN-AIO.git ~/PI-PWN
 cd ~/PI-PWN
 sudo cp -r PPPwn /boot/firmware/
+mkdir -p /boot/firmware/PPPwn/payloads
 cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
+echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
+```
+# Payloads
+```
+## 11.00
+git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
+## 9.00
+git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
+## 6.72
+git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
+## 5.05
+git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
+## 4.00-7.00
+git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
+
 ```
 
 <br>
 
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
+## Listet Homebrew
+
+Games Reaper Studio = `744,755`<br>
+Games Cheater = `744,755`<br>
+Chiaki = `987,9295,9296,9297`<br>
+PS4 Tools = `2811`<br>
+FTP Server = `1337,2121`<br>
+BinLoader Server = `8080,9020,9090`<br>
+Klog Server = `3232,5353,12800`<br>
+PSLAN = `1235,2811,3074,3075,5069`<br>
 
 ```
 echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
@@ -558,7 +554,7 @@ echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,92
 
 <br>
 
-During the install process you will be asked to set some options.<br>
+During the Install Process you will be Asked to set some Options.<br>
 
 If you are using a <b>USB to ethernet adapter</b> for the connection to the console you need to select yes<br>
 If your PI has an ethernet port and you are using a USB to ethernet adapter your interface for the USB adapter should be eth1<br>
