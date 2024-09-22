@@ -513,10 +513,10 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt install git -y
 git clone https://github.com/Systemx23x/PI-PWN-AIO.git ~/PI-PWN
 cd ~/PI-PWN
 sudo cp -r PPPwn /boot/firmware/
-mkdir -p /boot/firmware/PPPwn/payloads
 cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
+## Ports
 echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 # Payloads
