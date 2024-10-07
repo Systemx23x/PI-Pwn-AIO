@@ -231,7 +231,7 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 ## Add PS4 Payloads Collection FW4.00-7.00
 ```
-git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
 ```
 
 ## Include
@@ -252,7 +252,7 @@ git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/
 
 ## Add PS4 Payloads Collection FW5.05
 ```
-git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
 ```
 
 ## Include
@@ -339,7 +339,7 @@ Update-Blocker-Extreme.bin<br>
 
 ## Add PS4 Payloads Collection FW6.72
 ```
-git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
 ```
 
 ## Include
@@ -379,7 +379,7 @@ tlou_Dev-Menu-6.72.bin<br>
 
 ## Add PS4 Payloads Collection FW9.00
 ```
-git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
 ```
 
 ## Included
@@ -445,7 +445,7 @@ webrte.bin<br>
 
 ## Add PS4 Payloads Collection FW11.00
 ```
-git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
 ```
 
 ## Include
@@ -517,20 +517,21 @@ cd /boot/firmware/PPPwn
 sudo chmod 777 *
 sudo bash install.sh
 ## Ports
+sudo su
 echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 # Payloads
 ```
 ## 11.00
-git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
 ## 9.00
-git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
 ## 6.72
-git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
 ## 5.05
-git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
 ## 4.00-7.00
-git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
+sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
 
 ```
 
