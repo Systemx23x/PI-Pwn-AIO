@@ -498,6 +498,12 @@ These are models i have tested with but PI-PWN is not limited to these models.<b
 
 You need to install Raspberry PI OS Lite onto a sdcard or a USB-Drive with PI-Imager<br>
 
+## PI-Imager 1.9.0 Windows
+<a href=https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.0/imager-1.9.0.exe>PI-Imager_1.9.0_Windows_Download</a><br>
+
+## Rasperry OS Lite arm64
+<a href=https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz>Raspberry_OS_Lite_arm64_latest</a><b>
+
 Place the SDCARD/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following Commands<br>
 
 ```
@@ -509,19 +515,25 @@ ssh username@pppwn.local
 ## Setup & Config PI-PWN (After Finish the PI Reboot)
 
 ```
-sudo apt update -y && sudo apt upgrade -y && sudo apt install git -y
+sudo su
+apt update -y
+apt full-upgrade -y
+apt install git -y
 git clone https://github.com/Systemx23x/PI-PWN-AIO.git ~/PI-PWN
 cd ~/PI-PWN
-sudo cp -r PPPwn /boot/firmware/
+cp -r PPPwn /boot/firmware/
 cd /boot/firmware/PPPwn
-sudo chmod 777 *
-sudo bash install.sh
-## Ports
-sudo su
-echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
+chmod 777 *
+bash install.sh
+
+## Ports (ports.txt is Allready exist)
+## Payloads (payloads are Allready exist for Firmware 11.00)
 ```
+
+
 # Payloads
 ```
+sudo rm -r -f /boot/firmware/PPPwn/payloads
 ## 11.00
 sudo git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
 ## 9.00
@@ -532,7 +544,6 @@ sudo git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware
 sudo git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
 ## 4.00-7.00
 sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
-
 ```
 
 <br>
@@ -688,10 +699,13 @@ You can also Click the Update Button on the Web UI.<br>
  
  ## Credits
  
- All credit goes to <a href=https://github.com/TheOfficialFloW>TheOfficialFloW</a><br><br>
- <a href=https://github.com/xfangfang>xfangfang</a><br><br>
- <a href=https://github.com/SiSTR0>SiSTR0</a><br><br>
- <a href=https://github.com/xvortex>Vortex</a><br><br>
- <a href=https://github.com/EchoStretch>Echo Stretch</a><br><br>
- and many other people who have made this project possible.<br><br>
+ All credit goes to<br>
+ <a href=https://github.com/Systemx23x>Systemx23x</a><br>
+ <a href=https://github.com/stooged>Stooged</a><br>
+ <a href=https://github.com/TheOfficialFloW>TheOfficialFloW</a><br>
+ <a href=https://github.com/xfangfang>xfangfang</a><br>
+ <a href=https://github.com/SiSTR0>SiSTR0</a><br>
+ <a href=https://github.com/xvortex>Vortex</a><br>
+ <a href=https://github.com/EchoStretch>Echo Stretch</a><br>
+ and many other people who have made this project possible.<br>
  
