@@ -43,7 +43,7 @@ Support these Firmware Versions<br>
 ## Recovery Firmware Update Downloads AllInOne
 ###############################################<br>
 
-<a href=https://darksoftware.xyz/PS4/FWlist>PS4 Recovery Firmware Updates AllInOne (Online)</a><br>
+<a href=https://darksoftware.xyz/PS4/FWlist>PS4 Recovery Firmware Updates 1.51-11.02 (Online)</a><br>
 
 
 ## HowToDo Use Recovery Update PUP
