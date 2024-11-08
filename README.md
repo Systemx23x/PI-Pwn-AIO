@@ -164,9 +164,9 @@ There is also a Webserver to Control the PI, change Settings and send Payloads b
 
 Download All<br>
 
-<a href=http://downloads.raspberryPI.com/rasPIos_lite_armhf/images/rasPIos_lite_armhf-2024-03-15/2024-03-15-rasPIos-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit) Bookworm 12</a><br>
+<a href=https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit) Bookworm 12</a><br>
 
-<a href=http://downloads.raspberryPI.com/rasPIos_lite_arm64/images/rasPIos_lite_arm64-2024-03-15/2024-03-15-rasPIos-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit) Bookworm 12</a><br>
+<a href=https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit) Bookworm 12</a><br>
 
 <a href=https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.0>PI-Imager-1.9.0 Windows - Github Release</a><br>
 
@@ -505,10 +505,10 @@ You need to install Raspberry PI OS Lite on a SDcard or a USB-Drive with PI-Imag
 <a href=https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.0/imager-1.9.0.exe>PI-Imager_1.9.0_Windows_Download</a><br>
 
 ## Rasperry OS Lite arm64
-<a href="https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz">Raspberry_OS_Lite_arm64_64Bit_latest_Bookworm_12</a><b>
+<a href="https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64-lite.img.xz">Raspberry_OS_Lite_arm64_64Bit_latest_Bookworm_12</a><b>
 
 ## Raspberry OS Lite armhf
-<a href="http://downloads.raspberryPI.com/rasPIos_lite_armhf/images/rasPIos_lite_armhf-2024-03-15/2024-03-15-rasPIos-bookworm-armhf-lite.img.xz">Raspberry_OS_Lite_armhf_32Bit_latest_Bookworm_12</a><b>
+<a href="https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf-lite.img.xz">Raspberry_OS_Lite_armhf_32Bit_latest_Bookworm_12</a><b>
 
 Start Paspberry-PI-Imager and Choose the OS!<br>
 Plug-In the SDcard/USB-Drive!<br>
