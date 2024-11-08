@@ -4,89 +4,145 @@
 ###############################################################################################################<br>
 This is a script to Setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the Raspberry PI.<br>
 
-##GoldHEN Support
-#################<br>
+##GoldHEN 2.4b18 Supports
+#########################<br>
 
-<a href=https://ko-fi.com/SiSTRo/shop>latest GoldHEN Releases</a><br>
+<a href=https://ko-fi.com/SiSTRo/shop>GoldHEN Releases latest @ (ko-fi)</a><br>
+
+<a href=https://github.com/GoldHEN/GoldHEN/releases>GoldHEN Releases latest @ (Github)</a><br>
+
 Support these Firmware Versions<br>
-
-9.00<br>
-9.60<br>
-10.00<br>
-10.01<br>
-11.00<br>
-
+````
+5.05
+6.71
+6.72
+9.00
+9.60
+10.00
+10.01
+10.50
+10.70
+10.71
+11.00
+````
 
 <br>
 
 ##VTX-HEN Support
 #################<br>
 
-<a href=https://github.com/EchoStretch/ps4-hen-vtx>PS4-HEN-VTX</a><br>
+<a href=https://github.com/EchoStretch/ps4-hen-vtx>PS4-HEN-VTX @ (Github)</a><br>
+
 Support these Firmware Versions<br>
-
-7.00, 7.01, 7.02<br>
-7.50, 7.51, 7.55<br>
-8.00, 8.01, 8.03<br>
-8.50, 8.52<br>
-9.00<br>
-9.03, 9.04<br>
-9.50, 9.51, 9.60<br>
-10.00, 10.01<br>
-10.50, 10.70, 10.71<br>
-11.00<br>
-
+````
+7.00
+7.01
+7.02
+7.50
+7.51
+7.55
+8.00
+8.01
+8.03
+8.50
+8.52
+9.00
+9.03
+9.04
+9.50
+9.51
+9.60
+10.00
+10.01
+10.50
+10.70
+10.71
+11.00
+````
 
 <br>
 
 
-## Recovery Firmware Update Downloads AllInOne
-###############################################<br>
+## Recovery Firmware Updates - Downloads for GoldHEN Support - AllInOne
+#######################################################################<br>
 
 <a href=https://darksoftware.xyz/PS4/FWlist>PS4 Recovery Firmware Updates 1.51-11.02 (Online)</a><br>
 
 If the First Host would be go Down!!! so like Darthsterny Firmware Host, I have here Seperat Upload<br>
-PS4 Recovery Firmware 9.00,9.60,10.00,10.01,11.00 with the MD5 Hashes following here. Than my Share<br>
-would not be Going Down and must only Fresh Up after 1 Year Public.<br>
+PS4 Recovery Firmware 5.05,6.71,6.72,9.00,9.60,10.00,10.01,10.50,10.70,10.71,11.00 with the MD5 Hashes following here. Than my Share<br>
+would not be going Down and must only Refresh after 1 Year Public Lifetime.<br>
 
-FW9.00.zip<br>
-MD5 - 7D29B8250EB756695D1032B6B355553C<br>
-FW9.00\PS4\UPDATE\PS4UPDATE.PUP<br>
-MD5 - 674420F041CB5845AAE85928751CCD0E<br>
-
-FW9.60.zip<br>
-MD5 - 898BA3941B70656CDD841ADDFF1880BA<br>
-FW9.60\PS4\UPDATE\PS4UPDATE.PUP<br>
-MD5 - 4CA1C1DC093563044C620CBF0E7AFA2E<br>
-
-FW10.00.zip<br>
-MD5 - 13684C8577AB5D29F1F68FE1B33421FD<br>
-FW10.00\PS4\UPDATE\PS4UPDATE.PUP<br>
-MD5 - BCC0022F9C9D3261165046339FF33C92<br>
-
-FW10.01.zip<br>
-MD5 - 1EE4C216178E9DDECC8AD95A7A5B50D5<br>
-FW10.01\PS4\UPDATE\PS4UPDATE.PUP<br>
-MD5 - 87668869AF230AC26F859278D10402B1<br>
-
-FW11.00.zip<br>
-MD5 - 92221F7D64379287FC8C801D08636B90<br>
-FW11.00\PS4\UPDATE\PS4UPDATE.PUP<br>
-MD5 - FCD0A674A7D78FDB545EA97344D2F86F<br>
-
-<a href=https://c.1und1.de/@1157988897574099954/zv2mSvNlQxqJPlx0IhUy6g>PS4 Recovery Firmware Updates 9.00-11.00 (1&1 Onlinedrive)</a><br>
+<a href=https://c.1und1.de/@1157988897574099954/zv2mSvNlQxqJPlx0IhUy6g>PS4 Recovery Firmware Updates 5.05-11.00 (1&1 Onlinespeicher)</a><br>
 
 
+````
+FW5.05.zip
+MD5 - c6df03621849eb47dcd622546a3f84f4
+FW5.05/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - c2a602174f6b1d8ef599640cd276924a
+
+FW6.71.zip
+MD5 - e22cf8deee62c97f706098d6ddddc1dc
+FW6.71/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 2b864fbdaecbd5cf0958ddf1f558ccf4
+
+FW6.72.zip
+MD5 - 11eb8f20d323ba7cb107e6fe5ab93a31
+FW6.72/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 8140fdd70c1061c379f08566be022ecb
+
+FW9.00.zip
+MD5 - 7D29B8250EB756695D1032B6B355553C
+FW9.00/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 674420F041CB5845AAE85928751CCD0E
+
+FW9.60.zip
+MD5 - 898BA3941B70656CDD841ADDFF1880BA
+FW9.60/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 4CA1C1DC093563044C620CBF0E7AFA2E
+
+FW10.00.zip
+MD5 - 13684C8577AB5D29F1F68FE1B33421FD
+FW10.00/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - BCC0022F9C9D3261165046339FF33C92
+
+FW10.01.zip
+MD5 - 1EE4C216178E9DDECC8AD95A7A5B50D5
+FW10.01/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 87668869AF230AC26F859278D10402B1
+
+FW10.50.zip
+MD5 - 9d57e1a332003b6c2ced91ed150a70a0
+FW10.50/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 2b864fbdaecbd5cf0958ddf1f558ccf4
+
+FW10.70.zip
+MD5 - 4a49e02910ccf0edbf04e106839dfa3f
+FW10.70/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - 310c0783774cfc29469e02533396b071
+
+FW10.71.zip
+MD5 - eec1525f538b68dce48b4a3929948333
+FW10.71/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - d577c098f555032e2ab9f2c740162f0a
+
+FW11.00.zip
+MD5 - 92221F7D64379287FC8C801D08636B90
+FW11.00/PS4/UPDATE/PS4UPDATE.PUP
+MD5 - FCD0A674A7D78FDB545EA97344D2F86F
+````
+
+<br>
 
 ## HowToDo Use Recovery Update PUP
 ##################################<br>
-Create a USB Drive with min. 2GB FAT32/exFAT Formated<br>
+Take a USB Drive with min. 2GB FAT32/exFAT Formated<br>
 and Create a Folder in root of USB<br>
-PS4<br>
-into that Folder PS4 you Create<br>
-UPDATE<br>
-and into X:\PS4\UPDATE you Copy the<br>
-PS4UPDATE.PUP File<br>
+<b>PS4</b>"<br>
+into that Folder PS4 you Create Folder<br>
+<b>UPDATE</b><br>
+and into <b>X:/PS4/UPDATE/</b> you Copy the<br>
+<b>PS4UPDATE.PUP</b> File<br>
 Finish!!!!<br>
 
 <br>
@@ -104,21 +160,20 @@ There is also a Webserver to Control the PI, change Settings and send Payloads b
 
 <br>
 
-## Add Raspberry PI OS Lite and Tool
+## Raspberry PI OS Lite and Tool
 
-<a href=https://github.com/Systemx23x/PI-os/>Raspberry PI OS Lite and Tool github</a><br>
+Download All<br>
 
-## Download All
+<a href=http://downloads.raspberryPI.com/rasPIos_lite_armhf/images/rasPIos_lite_armhf-2024-03-15/2024-03-15-rasPIos-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit) Bookworm 12</a><br>
 
-<a href=http://downloads.raspberryPI.com/rasPIos_lite_armhf/images/rasPIos_lite_armhf-2024-03-15/2024-03-15-rasPIos-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit)</a><br>
-<a href=http://downloads.raspberryPI.com/rasPIos_lite_arm64/images/rasPIos_lite_arm64-2024-03-15/2024-03-15-rasPIos-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit)</a><br>
+<a href=http://downloads.raspberryPI.com/rasPIos_lite_arm64/images/rasPIos_lite_arm64-2024-03-15/2024-03-15-rasPIos-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit) Bookworm 12</a><br>
 
-<a href=https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.0>PI-Imager-1.9.0 Github Release</a><br>
+<a href=https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.0>PI-Imager-1.9.0 Windows - Github Release</a><br>
 
 
 ## Add PS4 Homebrew FPKG Collection
 
-<a href=https://c.1und1.de/@1157988897574099954/cG7vCuk6RMyYWAu5SpWLNw>PS4 Homebrew FPKG Collection 1&1 Link</a><br>
+<a href=https://c.1und1.de/@1157988897574099954/cG7vCuk6RMyYWAu5SpWLNw>PS4 Homebrew FPKG Collection (1&1 Onlinespeicher)</a><br>
 
 ## Include
 ps4-apollo-save-wizard.pkg<br> 
@@ -144,7 +199,7 @@ ps4-youtube.pkg<br>
 
 ## Add PS4 PC Tools Collection
 
-<a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>PS4 PC Tools Collection 1&1</a><br>
+<a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>PS4 PC Tools Collection (1&1 Onlinespeicher)</a><br>
 
 ## Include
 Chiaki-v2.2.0-Windows-x86_64.zip<br>
@@ -170,17 +225,11 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 <a href=https://github.com/Systemx23x/PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23/releases/tag/latest>PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23</a><br>
 
-
-
-
 <br>
-
 
 ## Here the Video Tutorial to Merge into One PKG
 
 <a href="https://www.youtube.com/embed/yn5NOfwzaOo?si=HB2Uea5pLI2Rxx34">Merge Game & Patch to One PKG Video Tutorial</a><br>
-
-
 
 <br>
 
@@ -412,8 +461,6 @@ ps4-debug-1.1.16.bin<br>
 ps4-disable_updates_11.00.bin<br> 
 ps4-fan-threshold.bin<br> 
 ps4-ftp.bin<br> 
-ps4-GoldHEN-2.4b17.3.bin<br> 
-ps4-hen-1100-PPPwn-vtx.bin<br>
 ps4-history-blocker.bin<br> 
 ps4-kernel-dumper.bin<br> 
 ps4-linux-1100-2gb.bin<br> 
@@ -452,20 +499,26 @@ These are models i have tested with but PI-PWN is not limited to these models.<b
 
 <br>
 
-You need to install Raspberry PI OS Lite onto a sdcard or a USB-Drive with PI-Imager<br>
+You need to install Raspberry PI OS Lite on a SDcard or a USB-Drive with PI-Imager<br>
 
 ## PI-Imager 1.9.0 Windows
 <a href=https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.0/imager-1.9.0.exe>PI-Imager_1.9.0_Windows_Download</a><br>
 
 ## Rasperry OS Lite arm64
-<a href=https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz>Raspberry_OS_Lite_arm64_latest</a><b>
+<a href="https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-07-04/2024-07-04-raspios-bookworm-arm64-lite.img.xz">Raspberry_OS_Lite_arm64_64Bit_latest_Bookworm_12</a><b>
 
-Place the SDCARD/USB-Drive into the Raspberry PI, Boot it and Connect it to the Internet then run the following Commands<br>
+## Raspberry OS Lite armhf
+<a href="http://downloads.raspberryPI.com/rasPIos_lite_armhf/images/rasPIos_lite_armhf-2024-03-15/2024-03-15-rasPIos-bookworm-armhf-lite.img.xz">Raspberry_OS_Lite_armhf_32Bit_latest_Bookworm_12</a><b>
+
+Start Paspberry-PI-Imager and Choose the OS!<br>
+Plug-In the SDcard/USB-Drive!<br>
+Make Settings up WIFI,SSH and Save It & Start Up the Process.<br>
+After Finishing, Plug-In SDcard/USB-Drive in your PI, and Start it.
+then run the following Command after Connect to your Network.<br>
 
 ```
 ssh username@pppwn.local
 ```
-
 <br>
 
 ## Setup & Config PI-PWN (After Finish the PI Reboot)
@@ -481,11 +534,9 @@ cp -r PPPwn /boot/firmware/
 cd /boot/firmware/PPPwn
 chmod 777 *
 bash install.sh
-
-## Ports (ports.txt is Allready exist)
-## Payloads (payloads are Allready exist for Firmware 11.00)
 ```
 
+## Payloads (payloads are Allready exist for Firmware 11.00)
 
 # Payloads
 ```
@@ -505,6 +556,9 @@ sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firm
 <br>
 
 ## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
+
+## Ports (ports.txt is Allready exist)
+
 ## Listet Homebrew
 
 Games Reaper Studio = `744,755`<br>
@@ -544,8 +598,10 @@ Once the PI reboots PPPwn will run automatically.<br>
 
 
 For GoldHEN you need to place the GoldHEN.bin File onto the root of a USB Drive Formated as FAT32/exFAT and Plug it into the Console.<br>
-Once GoldHEN has been loaded for the first time it will be coPIed to the Consoles Internal HDD and the USB is no longer Required.<br>
-To update GoldHEN just Repeat the above Process and the new version will be coPIed to the internal HDD<br>
+Once GoldHEN has been loaded for the first time it will be Copyed to the Consoles Internal HDD `/data/GoldHEN/xxxx/goldhen.bin`<br>
+and the USB-Drive is no longer Required.<br>
+To update GoldHEN just Repeat the above Process and the new Version will be copyed to the internal HDD, or Use FileZilla and FTP Connection,<br>
+to Copy `goldhen.bin` to `/data/GoldHEN/xxxx/goldhen.bin` and Replace It.<br>
 
 
 ## Console FTP / Binload
