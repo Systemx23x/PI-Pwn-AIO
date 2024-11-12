@@ -486,6 +486,12 @@ ssh username@pppwn.local
 
 ## Setup & Config PI-PWN (After Finish the PI Reboot)
 
+## Setup PI-PWN Payloads Internal on Raspberry PI
+## PreInstalled Payloads (Payloads 11.00 are Allready exist Internal in PPPwn)
+
+## Add PS4 PC Tools Ports to Configuration
+## PreInstalled Ports Config (ports.txt are Allready exist)
+
 ```
 sudo su
 apt update -y
@@ -496,43 +502,12 @@ cd ~/PI-PWN
 cp -r PPPwn /boot/firmware/
 cd /boot/firmware/PPPwn
 chmod 777 *
-bash install.sh
+./install.sh
+./payloads.sh
+echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
 ```
 
-## Setup PI-PWN Payloads Internal on Raspberry PI
-## PreInstalled Payloads (payloads 11.00 are Allready exist Internal in PPPwn)
-
-## Add Payloads 11.00
-````
-cd /boot/firmware/PPPwn
-./payloads.sh 11
-````
-## Add Payloads 9.00
-````
-cd /boot/firmware/PPPwn
-./payloads.sh 9
-````
-## Add Payloads 6.72
-````
-cd /boot/firmware/PPPwn
-./payloads.sh 6
-````
-## Add Payloads 5.05
-````
-cd /boot/firmware/PPPwn
-./payloads.sh 5
-````
-## Add Payloads 4.00-7.00
-````
-cd /boot/firmware/PPPwn
-./payloads.sh 4
-````
-
 <br>
-
-## Add PS4 PC Tools Ports to Configuration (After Reboot PI,connect Again and Add this)
-
-## Ports (ports.txt is Allready exist)
 
 ## Listet Homebrew
 
@@ -544,10 +519,6 @@ FTP Server = `1337,2121`<br>
 BinLoader Server = `8080,9020,9090`<br>
 Klog Server = `3232,5353,12800`<br>
 PSLAN = `1235,2811,3074,3075,5069`<br>
-
-```
-echo "744,755,987,1235,1337,2121,2811,3074,3075,3232,5069,5353,8080,9020,9090,9295,9296,9297,12800" > /boot/firmware/PPPwn/ports.txt
-```
 
 <br>
 
