@@ -1,5 +1,12 @@
 #!/bin/bash
-opt=$1
+echo "4 >> Setup Payloads 4.00-700"
+echo "5 >> Setup Payloads 5.05"
+echo "6 >> Setup Payloads 6.72"
+echo "9 >> Setup Payloads 9.00"
+echo "11 >> Setup Payloads 11.00"
+echo "###########################"
+read -p "$(printf 'Enter Payloads Firmware 4 | 5 | 6 | 9 | 11 >> ')" fwv
+opt=$fwv
 case $opt in
 		4)
 				echo "Setup Payloads 4.00-7.00"
@@ -8,6 +15,8 @@ case $opt in
 				sudo mkdir /boot/firmware/PPPwn/payloads
 				sudo cp -r *.bin /boot/firmware/PPPwn/payloads
 				echo "Finished Payloads Setup"
+    				clear
+				ls /boot/firmware/PPPwn/payloads
 				;;
 		5)
 				echo "Setup Payloads 5.05"
@@ -16,6 +25,8 @@ case $opt in
 				sudo mkdir /boot/firmware/PPPwn/payloads
 				sudo cp -r *.bin /boot/firmware/PPPwn/payloads
 				echo "Finished Payloads Setup"
+        			clear
+				ls /boot/firmware/PPPwn/payloads
 				;;
 		6)
 				echo "Setup Payloads 6.72"
@@ -24,6 +35,8 @@ case $opt in
 				sudo mkdir /boot/firmware/PPPwn/payloads
 				sudo cp -r *.bin /boot/firmware/PPPwn/payloads
 				echo "Finished Payloads Setup"
+        			clear
+				ls /boot/firmware/PPPwn/payloads
 				;;
 		9)
 				echo "Setup Payloads 9.00"
@@ -32,6 +45,8 @@ case $opt in
 				sudo mkdir /boot/firmware/PPPwn/payloads
 				sudo cp -r *.bin /boot/firmware/PPPwn/payloads
 				echo "Finished Payloads Setup"
+        			clear
+				ls /boot/firmware/PPPwn/payloads
 				;;
 		11)
 				echo "Setup Payloads 11.00"
@@ -40,12 +55,7 @@ case $opt in
 				sudo mkdir /boot/firmware/PPPwn/payloads
 				sudo cp -r *.bin /boot/firmware/PPPwn/payloads
 				echo "Finished Payloads Setup"
-				;;
-		*)
-				echo "4 : Setup Payloads 4.00-700"
-				echo "5 : Setup Payloads 5.05"
-				echo "6 : Setup Payloads 6.72"
-				echo "9 : Setup Payloads 9.00"
-				echo "11 : Setup Payloads 11.00"
+        			clear
+				ls /boot/firmware/PPPwn/payloads
 				;;
 esac
