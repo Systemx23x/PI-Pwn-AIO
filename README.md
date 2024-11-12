@@ -235,10 +235,6 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 
 ## Add PS4 Payloads Collection FW4.00-7.00
-```
-sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
-```
-
 ## Include
  App2USB.bin<br>
  Backup.bin<br>
@@ -256,10 +252,6 @@ sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firm
 
 
 ## Add PS4 Payloads Collection FW5.05
-```
-sudo git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
-```
-
 ## Include
 App2USB v3.bin<br>
 App2USB v4.bin<br>
@@ -283,7 +275,6 @@ FS_Dumper v1.bin<br>
 FTP+RW.bin<br>
 FTP-vtx 1.3.bin<br>
 ftp_server_v1.08a.bin<br>
-GoldHEN_v2.4b14.bin<br>
 GTA_V_APII_IntenseV2.bin<br>
 GTA_V_ArabicGuy.bin<br>
 GTA_V_Lamance_08_MOD-Menu.bin<br>
@@ -291,19 +282,6 @@ GTA_V_Lamance_Trainer.bin<br>
 GTA_V_Lotus_1.00_v1.27.bin<br>
 GTA_V_Psyco0s_MOD_Menu.bin<br>
 GTA_V_v1.27_APII_IntenseV2_by EROOTIIK.bin<br>
-HEN 1.8 VR.bin<br>
-HEN 1.8+DebuggerPatch.bin<br>
-HEN 1.9.bin<br>
-HEN 2.0 by SiSTR0.bin<br>
-HEN 2.1 by SiSTR0.bin<br>
-HEN 2.1.1 by SiSTR0.bin<br>
-HEN 2.1.2 by SiSTR0.bin<br>
-HEN 2.1.3 by SiSTR0.bin<br>
-HEN 2.1.4 by xXxTheDarkProgrammerxXx.bin<br>
-HEN v1.7 MOD by MUXI.bin<br>
-HEN-vtx 1.5.bin<br>
-HEN-vtx 1.6.bin<br>
-HEN-vtx 1.7.bin<br>
 History_Blocker v1.bin<br>
 History_Blocker v2.bin<br>
 Infinix-Package-Installer.bin<br>
@@ -343,10 +321,6 @@ Update-Blocker-Extreme.bin<br>
 
 
 ## Add PS4 Payloads Collection FW6.72
-```
-sudo git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
-```
-
 ## Include
 App2USB.bin<br>
 Backup.bin<br>
@@ -357,9 +331,6 @@ Enable-Updates.bin<br>
 Fan-Threshold.bin<br>
 FTP.bin<br>
 ftp_server_v1.08a.bin<br>
-GoldHEN_v2.4b14.bin<br>
-HEN_v2.1.3.bin<br>
-HEN_v2.1.3b.bin<br>
 History-Blocker.bin<br>
 Kernel-Clock.bin<br>
 Kernel-Dumper.bin<br>
@@ -383,10 +354,6 @@ tlou_Dev-Menu-6.72.bin<br>
 
 
 ## Add PS4 Payloads Collection FW9.00
-```
-sudo git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
-```
-
 ## Included
 app-dumper.bin<br>
 app-dumper_leeful.bin<br>
@@ -449,10 +416,6 @@ webrte.bin<br>
 
 
 ## Add PS4 Payloads Collection FW11.00
-```
-sudo git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
-```
-
 ## Include
 ps4-app-dumper.bin<br> 
 ps4-app2USB.bin<br> 
@@ -536,22 +499,45 @@ chmod 777 *
 bash install.sh
 ```
 
-## Payloads (payloads are Allready exist for Firmware 11.00)
-
-# Payloads
-```
-sudo rm -r -f /boot/firmware/PPPwn/payloads
-## 11.00
-sudo git clone https://github.com/Systemx23x/payloads-ps4-1100.git /boot/firmware/PPPwn/payloads
-## 9.00
-sudo git clone https://github.com/Systemx23x/payloads-ps4-900.git /boot/firmware/PPPwn/payloads
-## 6.72
-sudo git clone https://github.com/Systemx23x/payloads-ps4-672.git /boot/firmware/PPPwn/payloads
-## 5.05
-sudo git clone https://github.com/Systemx23x/payloads-ps4-505.git /boot/firmware/PPPwn/payloads
-## 4.00-7.00
-sudo git clone https://github.com/Systemx23x/payloads-ps4-400-700.git /boot/firmware/PPPwn/payloads
-```
+## Setup PI-PWN Payloads Internal on Raspberry PI
+````
+git clone https://github.com/Systemx23x/ps4-payload-collection.git ~/ps4-payload-collection
+````
+## Add Payloads 11.00
+````
+rm -r -f /boot/firmware/PPPwn/payloads
+cd ~/ps4-payload-collection/11.00/
+mkdir /boot/firmware/PPPwn/payloads
+cp -r *.bin /boot/firmware/PPPwn/payloads
+````
+## Add Payloads 9.00
+````
+rm -r -f /boot/firmware/PPPwn/payloads
+cd ~/ps4-payload-collection/9.00/
+mkdir /boot/firmware/PPPwn/payloads
+cp -r *.bin /boot/firmware/PPPwn/payloads
+````
+## Add Payloads 6.72
+````
+rm -r -f /boot/firmware/PPPwn/payloads
+cd ~/ps4-payload-collection/6.72/
+mkdir /boot/firmware/PPPwn/payloads
+cp -r *.bin /boot/firmware/PPPwn/payloads
+````
+## Add Payloads 5.05
+````
+rm -r -f /boot/firmware/PPPwn/payloads
+cd ~/ps4-payload-collection/5.05/
+mkdir /boot/firmware/PPPwn/payloads
+cp -r *.bin /boot/firmware/PPPwn/payloads
+````
+## Add Payloads 4.00-7.00
+````
+rm -r -f /boot/firmware/PPPwn/payloads
+cd ~/ps4-payload-collection/4.00-7.00/
+mkdir /boot/firmware/PPPwn/payloads
+cp -r *.bin /boot/firmware/PPPwn/payloads
+````
 
 <br>
 
@@ -601,7 +587,7 @@ For GoldHEN you need to place the GoldHEN.bin File onto the root of a USB Drive 
 Once GoldHEN has been loaded for the first time it will be Copyed to the Consoles Internal HDD `/data/GoldHEN/xxxx/goldhen.bin`<br>
 and the USB-Drive is no longer Required.<br>
 To update GoldHEN just Repeat the above Process and the new Version will be copyed to the internal HDD, or Use FileZilla and FTP Connection,<br>
-to Copy `goldhen.bin` to `/data/GoldHEN/xxxx/goldhen.bin` and Replace It.<br>
+to Copy `goldhen.bin` to `/data/GoldHEN/payloads/goldhen.bin` and Replace It.<br>
 
 
 ## Console FTP / Binload
