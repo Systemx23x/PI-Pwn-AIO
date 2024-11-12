@@ -500,6 +500,7 @@ bash install.sh
 ```
 
 ## Setup PI-PWN Payloads Internal on Raspberry PI
+## PreInstalled Payloads (payloads 11.00 are Allready exist Internal in PPPwn)
 ````
 git clone https://github.com/Systemx23x/ps4-payload-collection.git ~/ps4-payload-collection
 ````
