@@ -1,14 +1,6 @@
 # PS4 All-In-One Package Collection Download
 ############################################<br>
 
-
-
-<br>
-
-
-## PI-PWN All-in-One Package Solution
-######################################<br>
-
 <a href="https://hidrive.ionos.com/share/98xl2-gks4">PS4 All-In-One Package Collection Download (HiDrive)</a>
 
 
@@ -194,6 +186,20 @@ ps4-WebRTE.pkg<br>
 ps4-YouTube.pkg<br>
 
 <a href=https://hidrive.ionos.com/share/6xxnoge56l>PS4 Homebrew Collection (HiDrive)</a><br>
+
+
+## PS4 PC Software Collection
+## Include
+7z2301-x64.exe<br>
+Altes_Kontextmenu_win11.exe<br>
+FileZilla_3.65.0_win64-setup.exe<br>
+HxDSetup.exe<br>
+JDownloader2Setup_windows-x64_jre17.exe<br>
+Notepad.8.5.4.Installer.x64.exe<br>
+PowerShell-7.4.0-win-x64.msi<br>
+winrar-x64-623d.exe<br>
+
+<a href=https://hidrive.ionos.com/share/p9dlf4k1x9>PS4 PC Software Collection (HiDrive)</a><br>
 
 
 
@@ -557,9 +563,7 @@ ssh username@pppwn.local
 
 ```
 sudo su
-apt update -y
-apt full-upgrade -y
-apt install git -y
+apt update -y && apt full-upgrade -y && apt install git -y && clear
 git clone https://github.com/Systemx23x/PI-PWN-AIO.git ~/PI-PWN
 cd ~/PI-PWN
 cp -r PPPwn /boot/firmware/
