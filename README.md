@@ -1,25 +1,26 @@
-# PS4-AllInOne-Collection Database Download
-###########################################<br>
+# PS4 All-In-One Package Collection Download
+############################################<br>
 
-<a href="https://hidrive.ionos.com/share/98xl2-gks4">IONOS HiDrive AllInOne Download</a>
+
 
 <br>
 
 
-# PI-PWN-All-In-One
-###################<br>
-## PI-PWN-All-In-One Section Added to have it Perfektly as `All-in-One Package Solution` with all Needed Extras
-###############################################################################################################<br>
-This is a script to Setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the Raspberry PI.<br>
+## PI-PWN All-in-One Package Solution
+######################################<br>
 
-##GoldHEN 2.4b18 Supports
-#########################<br>
+<a href="https://hidrive.ionos.com/share/98xl2-gks4">PS4 All-In-One Package Collection Download (HiDrive)</a>
 
-<a href=https://ko-fi.com/SiSTRo/shop>GoldHEN Releases latest @ (ko-fi)</a><br>
 
-<a href=https://github.com/GoldHEN/GoldHEN/releases>GoldHEN Releases latest @ (Github)</a><br>
 
-Support these Firmware Versions<br>
+## GoldHEN 2.4b18.2 Supports
+############################<br>
+
+<a href=https://ko-fi.com/SiSTRo/shop>GoldHEN Releases (ko-fi)</a><br>
+
+<a href=https://github.com/GoldHEN/GoldHEN/releases>GoldHEN Releases(Github)</a><br>
+
+Support Firmware Versions<br>
 ````
 5.05
 6.71
@@ -36,8 +37,8 @@ Support these Firmware Versions<br>
 
 <br>
 
-##VTX-HEN Support
-#################<br>
+##VTX-HEN Supports
+##################<br>
 
 <a href=https://github.com/EchoStretch/ps4-hen-vtx>PS4-HEN-VTX @ (Github)</a><br>
 
@@ -71,16 +72,15 @@ Support these Firmware Versions<br>
 <br>
 
 
-## Recovery Firmware Updates - Downloads for GoldHEN Support - AllInOne
-#######################################################################<br>
+## PS4 Firmware Updates Collection
+##################################<br>
 
-<a href=https://darksoftware.xyz/PS4/FWlist>PS4 Recovery Firmware Updates 1.51-11.02 (Online)</a><br>
+## PS4 Firmware Website Archive 1.51-11.00 with the MD5 Hashes.
+<a href=https://darksoftware.xyz/PS4/FWlist>PS4 Recovery Firmware Updates 1.51-11.00 (Website)</a><br>
 
-If the First Host would be go Down!!! so like Darthsterny Firmware Host, I have here Seperat Upload<br>
-PS4 Recovery Firmware 5.05,6.71,6.72,9.00,9.60,10.00,10.01,10.50,10.70,10.71,11.00 with the MD5 Hashes following here. Than my Share<br>
-would not be going Down and must only Refresh after 1 Year Public Lifetime.<br>
 
-<a href=https://c.1und1.de/@1157988897574099954/zv2mSvNlQxqJPlx0IhUy6g>PS4 Recovery Firmware Updates 5.05-11.00 (1&1 Onlinespeicher)</a><br>
+## PS4 Recovery Firmware 5.05,6.71,6.72,9.00,9.60,10.00,10.01,10.50,10.70,10.71,11.00 with the MD5 Hashes following here.
+<a href=https://hidrive.ionos.com/share/d6t4fuw75g>PS4 Recovery Firmware Updates 5.05-11.00 (HiDrive)</a><br>
 
 
 ````
@@ -168,61 +168,71 @@ There is also a Webserver to Control the PI, change Settings and send Payloads b
 
 <br>
 
-## Raspberry PI OS Lite and Tool
 
-Download All<br>
-
-<a href=https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf-lite.img.xz>PI-OS-Lite-armhf-(32Bit) Bookworm 12</a><br>
-
-<a href=https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64-lite.img.xz>PI-OS-Lite-arm64-(64Bit) Bookworm 12</a><br>
-
-<a href=https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.0>PI-Imager-1.9.0 Windows - Github Release</a><br>
-
-
-## Add PS4 Homebrew FPKG Collection
-
-<a href=https://c.1und1.de/@1157988897574099954/cG7vCuk6RMyYWAu5SpWLNw>PS4 Homebrew FPKG Collection (1&1 Onlinespeicher)</a><br>
-
+## PS4 Homebrew Collection
 ## Include
-ps4-apollo-save-wizard.pkg<br> 
-ps4-goldencheats.pkg<br> 
-ps4-homebrew-store.pkg<br> 
-ps4-game-manager-01.06.pkg<br> 
-ps4-logmein-hamachi.pkg<br> 
-ps4-orbis-ftp.pkg<br> 
-ps4-orbis-suite-3.0.pkg<br> 
-ps4-patch-installer.pkg<br> 
-ps4-tools.pkg<br> 
-ps4-webdav-client-1.04.pkg<br> 
-ps4-webrte.pkg<br> 
-ps4-icon-mask_v1.15.pkg<br>
-ps4-xplorer-2.03.pkg<br>
-ps4-ftp-client-1.08.pkg<br>
-ps4-cheats-manager-01.22.pkg<br>
-ps4-game-bato.pkg<br>
-ps4-youtube.pkg<br>
+ps4-Apollo_SaveTool_v2.0.0.pkg<br>
+ps4-CheatManagerMod_v1.2.2.pkg<br>
+ps4-File_Explorer_2.0_v1.16.pkg<br>
+ps4-File_Explorer_v1.34.pkg<br>
+ps4-FtpClient_v1.0.8.pkg<br>
+ps4-Homebrew_Store-R2.pkg<br>
+ps4-Internal_pkg<br>_Installer.pkg<br>
+ps4-ItemzFlow_Manager_v1.06.pkg<br>
+ps4-LogMeIn-Hamachi.pkg<br>
+ps4-OrbisFTP_v1.00.pkg<br>
+ps4-OrbisSuite3.0.pkg<br>
+ps4-Patch-Installer.pkg<br>
+ps4-Payload_Guest_v0.98.pkg<br>
+ps4-PayloadGuest.pkg<br>
+ps4-PluginX.V1.0.pkg<br>
+ps4-Remote_Package_Installer_(OOSDK-Port).pkg<br>
+ps4-Remote_Package_Installer.pkg<br>
+ps4-Toolset_v2.10.pkg<br>
+ps4-webdav_client.pkg<br>
+ps4-WebRTE.pkg<br>
+ps4-YouTube.pkg<br>
+
+<a href=https://hidrive.ionos.com/share/6xxnoge56l>PS4 Homebrew Collection (HiDrive)</a><br>
 
 
 
-
-## Add PS4 PC Tools Collection
-
-<a href=https://c.1und1.de/@1157988897574099954/hjbPFgusTpSVtQO_p2BVVA>PS4 PC Tools Collection (1&1 Onlinespeicher)</a><br>
-
+## PS4 PC Tools Collection
 ## Include
-Chiaki-v2.2.0-Windows-x86_64.zip<br>
-DS4_Tool.zip<br> 
-FTP_Dump.zip<br>
-GoldHEN_Cheats_Updater.zip<br>
-ps4-Fake-PKG-Tools-3.87_V6_MoD_By_System23.zip<br>
-ps4-Game-Cheater-1.5.4.7-Rev2-x64.zip<br>
-ps4-Game-Cheater-1.5.4.7-Rev2-x86.zip<br>
-ps4-Games-Reaper-Beta2.zip<br>
-ps4-Games-Reaper-Studio-1.0.4.1.zip<br>
-ps4-GoldHEN-Cheats-Updater-and-Converter.zip<br>
+PS4_Backup_v3.0.zip<br>
+PS4_Cheater_v1.5.4.7_rev2_x64.zip<br>
+PS4_Cheater_v1.5.4.7_rev2_x86.zip<br>
+PS4_Chiaki_v2.2.0_Remote.zip<br>
+PS4_Database_Rebuild_Tool_v1.0.0.zip<br>
+PS4_DS4Windows_3.3.3_AllInOne_Setup.exe<br>
+PS4_FTP_Dump.zip<br>
+PS4_GoldHEN_Cheats_Updater_and_Converter.zip<br>
+PS4_GoldHEN_Cheats_Updater.zip<br>
+PS4_Iconit_v5.13.0.2.zip<br>
+PS4_Kameleon_exploit_host.zip<br>
+PS4_Movie_Maker_v1.0.rar<br>
+PS4_MultiTools_v14.5_+_Emulators.7z<br>
+PS4_NetCat_GUI_v1.2.zip<br>
+PS4_Offline_Activator_v1.1_for_7.0x_retail.zip<br>
+PS4_PKG_Linker_v1.0.3.zip<br>
+PS4_ProfileIt.zip<br>
+PS4_Reaper_Beta_v3.2.zip<br>
+PS4_Reaper_older.zip<br>
+PS4_Remote.Play.Auto-Patcher.zip<br>
+PS4_ToolBox_v2_[DeathRGH][2.2.1.140].zip<br>
+PS4_ToolBox_v2.zip<br>
+PS4_Tools_v1.0.9.rar<br>
+PS4_Tools.zip<br>
+PS4-Fake-PKG-Tools-3.87_V7_MoD_By_System23.zip<br>
+PS4Themes.zip<br>
+PS4Themes+IMAGES.7z<br>
+PS4ThemesGold.v1.0.5.rar<br>
+
+<a href=https://hidrive.ionos.com/share/qwfl3q8xtt>PS4 PC Tools Collection (HiDrive)</a><br>
 
 
-## PS4 Fake PKG Tools 3.87 V6 By Cyb1k & Modded By System23
+
+## PS4 Fake PKG Tools 3.87 V7 By Cyb1k & Modded By System23
 
 A AllInOne Solution to `Extract/Repack/Verify/Editing` PKG Files, with DLC Creators,Trophy Unlocker and a Video How to Merge Game & Patch in One PKG (100% Working Solution),<br>
 this Binarys are Called by Executables they need Manual commands `drag&drop` `copy&paste`, all needed Extras are Included!!!!!<br>
@@ -231,7 +241,7 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 
 (I have Merge all my Games with the Patches, and when someone Release a newer Patch, extract Merged PKG and copy&paste Patch over it and Rebuild PKG)<br>
 
-<a href=https://github.com/Systemx23x/PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23/releases/tag/latest>PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23</a><br>
+<a href=https://github.com/Systemx23x/PS4-Fake-PKG-Tools-3.87_V6_MoD_By_System23/releases/download/Master/PS4-Fake-PKG-Tools-3.87_V7_MoD_By_System23.zip>Download PS4-Fake-PKG-Tools-3.87_V7_MoD_By_System23</a><br>
 
 <br>
 
@@ -242,24 +252,38 @@ Its the only Solution to Merge Game & Patch in One PKG with correct Working and 
 <br>
 
 
+
 ## Add PS4 Payloads Collection FW4.00-7.00
 ## Include
+config.ini
 ps4-App2USB.bin<br>
 ps4-Backup.bin<br>
+ps4-debug-settings.bin<br>
+ps4-debug-v1.02.bin<br>
+ps4-debug-v1.04.bin<br>
+ps4-debug-v1.1.16.bin<br>
+ps4-debug-v1.1.17.bin<br>
 ps4-Disable-Updates.bin<br>
 ps4-Dumper.bin<br>
 ps4-Enable-Browser.bin<br>
 ps4-Enable-Updates.bin<br>
 ps4-Fan-Threshold.bin<br>
+ps4-ftp-server-v1.08b.bin<br>
 ps4-FTP.bin<br>
 ps4-History-Blocker.bin<br>
 ps4-Kernel-Clock.bin<br>
 ps4-Kernel-Dumper.bin<br>
+ps4-PKG-Backup.bin<br>
 ps4-Restore.bin<br>
 ps4-RIF-Renamer.bin<br>
+ps4-sflash0-dumper.bin<br>
+ps4-webrte-v1.01.bin<br>
+
+
 
 ## Add PS4 Payloads Collection FW5.05
 ## Include
+config.ini
 ps4-App2USB v3.bin<br>
 ps4-App2USB v4.bin<br>
 ps4-App2USB v5.bin<br>
@@ -272,6 +296,11 @@ ps4-DB_Backup.bin<br>
 ps4-Db_Restore v2.bin<br>
 ps4-DB_SG_Backup v2.bin<br>
 ps4-DB_SG_Backup v3.bin<br>
+ps4-debug-settings.bin<br>
+ps4-debug-v1.02.bin<br>
+ps4-debug-v1.04.bin<br>
+ps4-debug-v1.1.16.bin<br>
+ps4-debug-v1.1.17.bin<br>
 ps4-Disable-Updates.bin<br>
 ps4-DiscDump_v1.bin<br>
 ps4-Dumper-vtx 1.8.bin<br>
@@ -280,41 +309,36 @@ ps4-Enable-Updates.bin<br>
 ps4-Fan_Control.bin<br>
 ps4-FS_Dumper v1.bin<br>
 ps4-ftp_server_v1.08a.bin<br>
-ps4-FTP-vtx 1.3.bin<br>
+ps4-ftp-5.05-11-00.bin<br>
+ps4-ftp-server-v1.08b.bin<br>
+ps4-FTP-vtx-1.3.bin<br>
 ps4-FTP+RW.bin<br>
-ps4-GoldHEN_v2.4b14.bin<br>
 ps4-GTA_V_APII_IntenseV2.bin<br>
 ps4-GTA_V_ArabicGuy.bin<br>
 ps4-GTA_V_Lamance_08_MOD-Menu.bin<br>
 ps4-GTA_V_Lamance_Trainer.bin<br>
 ps4-GTA_V_Lotus_1.00_v1.27.bin<br>
 ps4-GTA_V_Psyco0s_MOD_Menu.bin<br>
-ps4-GTA_V_v1.27_APII_IntenseV2_by EROOTIIK
+ps4-GTA_V_v1.27_APII_IntenseV2_by EROOTIIK.
 ps4-History_Blocker v1.bin<br>
 ps4-History_Blocker v2.bin<br>
 ps4-Infinix-Package-Installer.bin<br>
 ps4-KernelDumper v2.bin<br>
 ps4-Kexec.bin<br>
 ps4-Linux_HDD_intern.bin<br>
-ps4-Linux-Loader-5.05.bin<br>
-ps4-LinuxLoader-505-2gb.bin<br>
-ps4-LinuxLoader-505-3gb.bin<br>
-ps4-LinuxLoader-505-4gb.bin<br>
-ps4-LinuxLoader-505-5gb.bin<br>
-ps4-LinuxLoader-505.bin<br>
+ps4-linux-505-2gb.bin<br>
+ps4-linux-505-3gb.bin<br>
+ps4-linux-505-4gb.bin<br>
+ps4-linux-505.bin<br>
+ps4-linux-pro-505-2gb.bin<br>
+ps4-linux-pro-505-3gb.bin<br>
+ps4-linux-pro-505-4gb.bin<br>
+ps4-linux-pro-505.bin<br>
 ps4-OrbisAFR.bin<br>
-ps4-payload-linux-505-2gb.bin<br>
-ps4-payload-linux-505-3gb.bin<br>
-ps4-payload-linux-505-4gb.bin<br>
-ps4-payload-linux-505.bin<br>
-ps4-payload-pro-linux-505-2gb.bin<br>
-ps4-payload-pro-linux-505-3gb.bin<br>
-ps4-payload-pro-linux-505-4gb.bin<br>
-ps4-payload-pro-linux-505.bin<br>
 ps4-PKG_BACKUP_v1.bin<br>
 ps4-PKG_BACKUP_v2.bin<br>
 ps4-PKG_BACKUP_v3.bin<br>
-ps4-PS4debug_v1.1.16.bin<br>
+ps4-PKG-Backup.bin<br>
 ps4-ps4ren_v1.bin<br>
 ps4-PsxitarchV2-1GB-VRAM.bin<br>
 ps4-PsxitarchV2-2GB-VRAM.bin<br>
@@ -322,51 +346,65 @@ ps4-PsxitarchV2-3GB-VRAM.bin<br>
 ps4-PsxitarchV2-NO-EDID.bin<br>
 ps4-reactPSPlus 31May2018 undo.bin<br>
 ps4-reactPSPlus.bin<br>
+ps4-sflash0-dumper.bin<br>
 ps4-Syscall_112_Installer.bin<br>
 ps4-tlou_Dev-Menu-5.05.bin<br>
 ps4-Update-Blocker-Extreme-uninstall.bin<br>
 ps4-Update-Blocker-Extreme.bin<br>
+ps4-webrte-v1.01.bin<br>
+
 
 
 ## Add PS4 Payloads Collection FW6.72
 ## Include
+config.ini
 ps4-App2USB.bin<br>
 ps4-Backup.bin<br>
+ps4-debug-settings.bin<br>
+ps4-debug-v1.02.bin<br>
+ps4-debug-v1.04.bin<br>
+ps4-debug-v1.1.16.bin<br>
+ps4-debug-v1.1.17.bin<br>
 ps4-Disable-Updates.bin<br>
 ps4-Dumper.bin<br>
 ps4-Enable-Browser.bin<br>
 ps4-Enable-Updates.bin<br>
 ps4-Fan-Threshold.bin<br>
 ps4-ftp_server_v1.08a.bin<br>
+ps4-ftp-5.05-11-00.bin<br>
+ps4-ftp-server-v1.08b.bin<br>
 ps4-FTP.bin<br>
 ps4-History-Blocker.bin<br>
 ps4-Kernel-Clock.bin<br>
 ps4-Kernel-Dumper.bin<br>
-ps4-LinuxLoader-672-2gb.bin<br>
-ps4-LinuxLoader-672-3gb.bin<br>
-ps4-LinuxLoader-672-4gb.bin<br>
-ps4-LinuxLoader-672-5gb.bin<br>
-ps4-LinuxLoader-672.bin<br>
-ps4-payload-linux-672-2gb.bin<br>
-ps4-payload-linux-672-3gb.bin<br>
-ps4-payload-linux-672-4gb.bin<br>
-ps4-payload-linux-672.bin<br>
-ps4-payload-linux-pro-672-2gb.bin<br>
-ps4-payload-linux-pro-672-3gb.bin<br>
-ps4-payload-linux-pro-672-4gb.bin<br>
-ps4-payload-linux-pro-672.bin<br>
-ps4-PS4debug_v1.1.16.bin<br>
+ps4-linux-672-2gb.bin<br>
+ps4-linux-672-3gb.bin<br>
+ps4-linux-672-4gb.bin<br>
+ps4-linux-672.bin<br>
+ps4-linux-pro-672-2gb.bin<br>
+ps4-linux-pro-672-3gb.bin<br>
+ps4-linux-pro-672-4gb.bin<br>
+ps4-linux-pro-672.bin<br>
+ps4-PKG-Backup.bin<br>
 ps4-Restore.bin<br>
 ps4-RIF-Renamer.bin<br>
+ps4-sflash0-dumper.bin<br>
 ps4-tlou_Dev-Menu-6.72.bin<br>
+ps4-webrte-v1.01.bin<br>
+
 
 
 ## Add PS4 Payloads Collection FW9.00
 ## Included
+config.ini
 ps4-app-dumper.bin<br>
 ps4-app2usb.bin<br>
 ps4-backup.bin<br>
-ps4-debug-1.1.16.bin<br>
+ps4-debug-settings.bin<br>
+ps4-debug-v1.02.bin<br>
+ps4-debug-v1.04.bin<br>
+ps4-debug-v1.1.16.bin<br>
+ps4-debug-v1.1.17.bin<br>
 ps4-disable-aslr.bin<br>
 ps4-disable-updates.bin<br>
 ps4-enable-browser.bin<br>
@@ -382,6 +420,8 @@ ps4-fan-speed-75.bin<br>
 ps4-fan-speed-80.bin<br>
 ps4-fan-speed-default.bin<br>
 ps4-fan-threshold.bin<br>
+ps4-ftp-5.05-11-00.bin<br>
+ps4-ftp-server-v1.08b.bin<br>
 ps4-ftp.bin<br>
 ps4-game-dumper.bin<br>
 ps4-GTA5_ArabicGuy127.bin<br>
@@ -394,49 +434,53 @@ ps4-GTA5_Expulsion_v2_135.bin<br>
 ps4-history-blocker.bin<br>
 ps4-kernel-clock.bin<br>
 ps4-kernel-dumper.bin<br>
+ps4-linux-900-2gb.bin<br>
+ps4-linux-900-3gb.bin<br>
+ps4-linux-900-4gb.bin<br>
+ps4-linux-900.bin<br>
 ps4-linux-pro-900-2gb.bin<br>
 ps4-linux-pro-900-3gb.bin<br>
 ps4-linux-pro-900-4gb.bin<br>
 ps4-linux-pro-900.bin<br>
-ps4-LinuxLoader.bin<br>
-ps4-LinuxLoader2gb.bin<br>
-ps4-LinuxLoader3gb.bin<br>
-ps4-LinuxLoader4gb.bin<br>
-ps4-LinuxLoader5gb.bin<br>
 ps4-module-dumper.bin<br>
 ps4-OrbisToolbox.bin<br>
 ps4-permanent-uart.bin<br>
 ps4-pkg-backup.bin<br>
-ps4-psxita_LinuxLoader.bin<br>
-ps4-psxita_LinuxLoader2gb.bin<br>
-ps4-psxita_LinuxLoader3gb.bin<br>
-ps4-psxita_LinuxLoader4gb.bin<br>
-ps4-psxita_LinuxLoader5gb.bin<br>
 ps4-RDR2_OystersMenu100.bin<br>
 ps4-RDR2_OystersMenu113.bin<br>
 ps4-RDR2_OystersMenu119.bin<br>
 ps4-RDR2_OystersMenu124.bin<br>
 ps4-restore.bin<br>
 ps4-rif-renamer.bin<br>
+ps4-sflash0-dumper.bin<br>
 ps4-todex.bin<br>
 ps4-toolbox.bin<br>
+ps4-webrte-v1.01.bin<br>
 ps4-webrte.bin<br>
 ps4-wtsb.bin<br>
 
+
+
 ## Add PS4 Payloads Collection FW11.00
 ## Include
+config.ini
 ps4-app-dumper.bin<br>
 ps4-app2usb.bin<br>
 ps4-backup.bin<br>
-ps4-dbbackup.bin<br>
-ps4-debug-1.1.16.bin<br>
-ps4-debug-1.1.17.bin<br>
+ps4-db-backup.bin<br>
+ps4-debug-settings.bin<br>
+ps4-debug-v1.02.bin<br>
+ps4-debug-v1.04.bin<br>
+ps4-debug-v1.1.16.bin<br>
+ps4-debug-v1.1.17.bin<br>
 ps4-disable-aslr.bin<br>
 ps4-disable-updates.bin<br>
 ps4-enable-browser.bin<br>
 ps4-enable-updates.bin<br>
 ps4-exit-idu.bin<br>
 ps4-fan-threshold.bin<br>
+ps4-ftp-5.05-11-00.bin<br>
+ps4-ftp-server-v1.08b.bin<br>
 ps4-ftp-vtx.bin<br>
 ps4-ftp.bin<br>
 ps4-history-blocker.bin<br>
@@ -453,11 +497,16 @@ ps4-linux-pro-1100.bin<br>
 ps4-module-dumper.bin<br>
 ps4-permanent_uart-11.00.bin<br>
 ps4-permanent-uart.bin<br>
+ps4-PKG-Backup.bin<br>
+ps4-ps4-sflash0-dumper.bin<br>
 ps4-pup-decrypter.bin<br>
 ps4-restore.bin<br>
 ps4-rif-renamer.bin<br>
+ps4-sflash0-dumper.bin<br>
 ps4-todex.bin<br>
-ps4-update_blocker.bin<br>
+ps4-update-blocker.bin<br>
+ps4-webrte-v1.01.bin<br>
+ps4-WebRTE.bin<br>
 
 
 <br>
@@ -477,26 +526,20 @@ These are models i have tested with but PI-PWN is not limited to these models.<b
 <a href=https://www.linksprite.com/linksprite-pcduino3/>pcDuino3b</a> with armbian <a href=https://imola.armbian.com/archive/pcduino3nano/archive/Armbian_5.38_Pcduino3nano_Debian_jessie_next_4.14.14.7z>Image</a><br>
 
 
-## Install PI-PWN-All-In-One
+## Download Raspberry OS
 
+<a href=https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-11-19/2024-11-19-raspios-bookworm-armhf-lite.img.xz>raspi-os-lite-armhf 19-11-2024</a><br>
 
-<br>
+<a href=https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-11-19/2024-11-19-raspios-bookworm-arm64-lite.img.xz>raspi-os-lite-arm64 19-11-2024</a><br>
 
-You need to install Raspberry PI OS Lite on a SDcard or a USB-Drive with PI-Imager<br>
+<a href=https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.0>Pi-Imager-1.9.0-Windows - (Github)</a><br>
 
-## PI-Imager 1.9.0 Windows
-<a href=https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.0/imager-1.9.0.exe>PI-Imager_1.9.0_Windows_Download</a><br>
-
-## Rasperry OS Lite arm64
-<a href="https://downloads.raspberrypi.com/raspios_lite_arm64/images/raspios_lite_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64-lite.img.xz">Raspberry_OS_Lite_arm64_64Bit_latest_Bookworm_12</a><b>
-
-## Raspberry OS Lite armhf
-<a href="https://downloads.raspberrypi.com/raspios_lite_armhf/images/raspios_lite_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf-lite.img.xz">Raspberry_OS_Lite_armhf_32Bit_latest_Bookworm_12</a><b>
+## Setup PI
 
 Start Paspberry-PI-Imager and Choose the OS!<br>
 Plug-In the SDcard/USB-Drive!<br>
 Make Settings up WIFI,SSH and Save It & Start Up the Process.<br>
-After Finishing, Plug-In SDcard/USB-Drive in your PI, and Start it.
+After Finishing, Plug-In SDcard/USB-Drive in your PI, and Start it.<br>
 then run the following Command after Connect to your Network.<br>
 
 ```
